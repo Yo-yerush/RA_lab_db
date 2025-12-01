@@ -1,10 +1,17 @@
 AT1G01010	protein_coding
+AT1G010150	NA
+AT1G010151	NA
 AT1G01020	protein_coding
 AT1G01030	protein_coding
+AT1G010152	NA
 AT1G01040	protein_coding
 AT1G01046	mirna
+AT1G010153	NA
 AT1G01050	protein_coding
 AT1G01060	protein_coding
+AT1G010154	NA
+AT1G010155	NA
+AT1G010156	NA
 AT1G01070	protein_coding
 AT1G01073	protein_coding
 AT1G01080	protein_coding
