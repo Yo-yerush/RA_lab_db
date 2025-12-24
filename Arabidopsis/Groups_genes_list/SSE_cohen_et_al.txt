@@ -1,0 +1,90 @@
+Gene Symbol	Title
+At2g05520	stress-induced transcripts
+At2g33380	stress-induced transcripts
+At5g59310	stress-induced transcripts
+At5g24770	stress-induced transcripts
+At1g47128	stress-induced transcripts
+At5g59320	stress-induced transcripts
+At3g08770	stress-induced transcripts
+At4g02380	stress-induced transcripts
+At5g15960	stress-induced transcripts
+At1g76180	stress-induced transcripts
+At1g20440	stress-induced transcripts
+At2g38540	stress-induced transcripts
+At5g20230	stress-induced transcripts
+At4g39090	stress-induced transcripts
+At1g20450	stress-induced transcripts
+At3g12120	stress-induced transcripts
+At5g60360	stress-induced transcripts
+At3g61890	stress-induced transcripts
+At2g46680	stress-induced transcripts
+At2g42540	stress-induced transcripts
+At2g15970	stress-induced transcripts
+At5g13170	stress-induced transcripts
+At1g66580	stress-induced transcripts
+At3g49110	redox- and detoxification-related transcripts
+At3g15353	redox- and detoxification-related transcripts
+At2g31570	redox- and detoxification-related transcripts
+At1g07890	redox- and detoxification-related transcripts
+At1g53580	redox- and detoxification-related transcripts
+At1g07600	redox- and detoxification-related transcripts
+At2g29940	redox- and detoxification-related transcripts
+At2g47730	redox- and detoxification-related transcripts
+At2g23150	redox- and detoxification-related transcripts
+At5g61640	redox- and detoxification-related transcripts
+At5g07470	redox- and detoxification-related transcripts
+At5g57560	Cell wall-related transcripts
+At4g37990	Cell wall-related transcripts
+At1g02790	Cell wall-related transcripts
+At4g35010	Cell wall-related transcripts
+At1g52400	Cell wall-related transcripts
+At2g39700	Cell wall-related transcripts
+At3g60140	Cell wall-related transcripts
+At2g22470	Cell wall-related transcripts
+At3g20865	Cell wall-related transcripts
+At5g40730	Cell wall-related transcripts
+At1g14420	Cell wall-related transcripts
+At4g34230	Cell wall-related transcripts
+At3g01700	Cell wall-related transcripts
+At5g11740	Cell wall-related transcripts
+At3g13520	Cell wall-related transcripts
+At1g05010	Ethylene metabolism and signaling
+At1g62380	Ethylene metabolism and signaling
+At1g53910	Ethylene metabolism and signaling
+At2g19560	Ethylene metabolism and signaling
+At3g14230	Ethylene metabolism and signaling
+At1g78080	Ethylene metabolism and signaling
+At3g20770	Ethylene metabolism and signaling
+At4g02680	Ethylene metabolism and signaling
+At3g20310	Ethylene metabolism and signaling
+At5g59220	ABA metabolism and signaling
+At2g26980	ABA metabolism and signaling
+At1g16540	ABA metabolism and signaling
+At4g26080	ABA metabolism and signaling
+At2g36270	ABA metabolism and signaling
+At4g33950	ABA metabolism and signaling
+At4g24400	ABA metabolism and signaling
+At1g10940	ABA metabolism and signaling
+At1g01360	ABA metabolism and signaling
+At1g07430	ABA metabolism and signaling
+At2g13540	ABA metabolism and signaling
+At1g78390	ABA metabolism and signaling
+At2g29090	ABA metabolism and signaling
+At3g01120	amino acid metabolism
+At2g25450	amino acid metabolism
+At2g38400	amino acid metabolism
+At4g23600	amino acid metabolism
+At2g39800	amino acid metabolism
+At5g25980	amino acid metabolism
+At3g25900	amino acid metabolism
+At5g10860	amino acid metabolism
+At4g34710	amino acid metabolism
+At5g07440	amino acid metabolism
+At5g19550	amino acid metabolism
+At1g17290	amino acid metabolism
+At4g14880	amino acid metabolism
+At3g22200	amino acid metabolism
+At4g31990	amino acid metabolism
+At3g47340	amino acid metabolism
+At3g02470	amino acid metabolism
+At3g22740	amino acid metabolism

@@ -1,0 +1,1490 @@
+gene_id,kegg_pathways,pathway_names,metabolite_group
+AT1G01050,ath00190,Oxidative phosphorylation,other
+AT1G01090,ath00010; ath00620; ath00650,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Butanoate metabolism,sugar
+AT1G01210,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT1G01220,ath00051; ath00520,Fructose and mannose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT1G01460,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT1G01480,ath00270,Cysteine and methionine metabolism,amino acids
+AT1G01610,ath00561; ath00564,Glycerolipid metabolism; Glycerophospholipid metabolism,other
+AT1G01710,ath01040,Biosynthesis of unsaturated fatty acids,organic-acids
+AT1G02000,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT1G02145,ath00510,N-Glycan biosynthesis,other
+AT1G02390,ath00561; ath00564,Glycerolipid metabolism; Glycerophospholipid metabolism,other
+AT1G02410,ath00190,Oxidative phosphorylation,other
+AT1G02500,ath00270,Cysteine and methionine metabolism,amino acids
+AT1G02640,ath00500; ath00460,Starch and sucrose metabolism; Cyanoamino acid metabolism,amino acids
+AT1G02730,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT1G02790,ath00040; ath00500,Pentose and glucuronate interconversions; Starch and sucrose metabolism,sugar
+AT1G02920,ath00480,Glutathione metabolism,other
+AT1G02940,ath00480,Glutathione metabolism,other
+AT1G02950,ath00480,Glutathione metabolism,other
+AT1G03090,ath00280,"Valine, leucine and isoleucine degradation",amino acids
+AT1G03130,ath00195,Photosynthesis,other
+AT1G03600,ath00195,Photosynthesis,other
+AT1G04410,ath00620; ath00630; ath00710,Pyruvate metabolism; Glyoxylate and dicarboxylate metabolism; Carbon fixation in photosynthetic organisms,organic-acids
+AT1G04610,ath00380,Tryptophan metabolism,amino acids
+AT1G04630,ath00190,Oxidative phosphorylation,other
+AT1G04680,ath00040,Pentose and glucuronate interconversions,sugar
+AT1G04710,ath00071; ath01040; ath00280,"Fatty acid degradation; Biosynthesis of unsaturated fatty acids; Valine, leucine and isoleucine degradation",organic-acids
+AT1G04920,ath00500,Starch and sucrose metabolism,sugar
+AT1G05010,ath00270,Cysteine and methionine metabolism,amino acids
+AT1G05260,ath00360,Phenylalanine metabolism,amino acids
+AT1G05590,ath00520; ath00531; ath00603; ath00604; ath00511,Amino sugar and nucleotide sugar metabolism; Glycosaminoglycan degradation; Glycosphingolipid biosynthesis – globo series; Glycosphingolipid biosynthesis – ganglio series; Other glycan degradation,sugar
+AT1G05610,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT1G06020,ath00051; ath00500; ath00520,Fructose and mannose metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT1G06030,ath00051; ath00500; ath00520,Fructose and mannose metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT1G06080,ath01040,Biosynthesis of unsaturated fatty acids,organic-acids
+AT1G06290,ath00071; ath00592; ath01040,Fatty acid degradation; alpha-Linolenic acid metabolism; Biosynthesis of unsaturated fatty acids,organic-acids
+AT1G06310,ath00071; ath00592; ath01040,Fatty acid degradation; alpha-Linolenic acid metabolism; Biosynthesis of unsaturated fatty acids,organic-acids
+AT1G06410,ath00500,Starch and sucrose metabolism,sugar
+AT1G06520,ath00561; ath00564,Glycerolipid metabolism; Glycerophospholipid metabolism,other
+AT1G06550,ath00640; ath00280; ath00410,"Propanoate metabolism; Valine, leucine and isoleucine degradation; beta-Alanine metabolism",amino acids
+AT1G06570,ath00350; ath00360,Tyrosine metabolism; Phenylalanine metabolism,amino acids
+AT1G06680,ath00195,Photosynthesis,other
+AT1G06780,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT1G06790,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT1G07110,ath00051,Fructose and mannose metabolism,sugar
+AT1G07230,ath00562; ath00564; ath00565,Inositol phosphate metabolism; Glycerophospholipid metabolism; Ether lipid metabolism,alcohol-sugars
+AT1G07420,ath00100,Steroid biosynthesis,other
+AT1G07890,ath00053; ath00480,Ascorbate and aldarate metabolism; Glutathione metabolism,acid-sugars
+AT1G08065,ath00910,Nitrogen metabolism,other
+AT1G08080,ath00910,Nitrogen metabolism,other
+AT1G08110,ath00620,Pyruvate metabolism,other
+AT1G08200,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT1G08260,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT1G08380,ath00195,Photosynthesis,other
+AT1G08490,ath00450; ath00730,Selenocompound metabolism; Thiamine metabolism,other
+AT1G08510,ath00061,Fatty acid biosynthesis,organic-acids
+AT1G08630,ath00260,"Glycine, serine and threonine metabolism",other
+AT1G09420,ath00030; ath00480,Pentose phosphate pathway; Glutathione metabolism,sugar
+AT1G09780,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT1G09795,ath00340,Histidine metabolism,amino acids
+AT1G09815,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT1G09830,ath00230,Purine metabolism,other
+AT1G10060,ath00280,"Valine, leucine and isoleucine degradation",amino acids
+AT1G10070,ath00280,"Valine, leucine and isoleucine degradation",amino acids
+AT1G10900,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT1G10960,ath00195,Photosynthesis,other
+AT1G11475,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT1G11590,ath00040; ath00500,Pentose and glucuronate interconversions; Starch and sucrose metabolism,sugar
+AT1G11680,ath00100,Steroid biosynthesis,other
+AT1G11840,ath00620,Pyruvate metabolism,other
+AT1G11860,ath00910; ath00260,"Nitrogen metabolism; Glycine, serine and threonine metabolism",other
+AT1G11880,ath00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,alcohol-sugars
+AT1G11920,ath00040,Pentose and glucuronate interconversions,sugar
+AT1G12000,ath00051,Fructose and mannose metabolism,sugar
+AT1G12010,ath00270,Cysteine and methionine metabolism,amino acids
+AT1G12050,ath00350,Tyrosine metabolism,amino acids
+AT1G12230,ath00030,Pentose phosphate pathway,sugar
+AT1G12240,ath00052; ath00500,Galactose metabolism; Starch and sucrose metabolism,sugar
+AT1G12780,ath00052; ath00520,Galactose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT1G12840,ath00190,Oxidative phosphorylation,other
+AT1G12900,ath00710,Carbon fixation in photosynthetic organisms,other
+AT1G12990,ath00510,N-Glycan biosynthesis,other
+AT1G13280,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT1G13440,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT1G13560,ath00564; ath00565,Glycerophospholipid metabolism; Ether lipid metabolism,other
+AT1G13700,ath00030,Pentose phosphate pathway,sugar
+AT1G14150,ath00195,Photosynthesis,other
+AT1G14230,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT1G14240,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT1G14250,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT1G14420,ath00040,Pentose and glucuronate interconversions,sugar
+AT1G14520,ath00053; ath00562,Ascorbate and aldarate metabolism; Inositol phosphate metabolism,alcohol-sugars
+AT1G14540,ath00360,Phenylalanine metabolism,amino acids
+AT1G14550,ath00360,Phenylalanine metabolism,amino acids
+AT1G14700,ath00740,Riboflavin metabolism,other
+AT1G14810,ath00260; ath00270; ath00300,"Glycine, serine and threonine metabolism; Cysteine and methionine metabolism; Lysine biosynthesis",amino acids
+AT1G15110,ath00564,Glycerophospholipid metabolism,other
+AT1G15120,ath00190,Oxidative phosphorylation,other
+AT1G15690,ath00190,Oxidative phosphorylation,other
+AT1G15700,ath00190; ath00195,Oxidative phosphorylation; Photosynthesis,other
+AT1G15820,ath00196,Photosynthesis – antenna proteins,other
+AT1G16300,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT1G16350,ath00230,Purine metabolism,other
+AT1G16460,ath00270,Cysteine and methionine metabolism,amino acids
+AT1G16570,ath00510,N-Glycan biosynthesis,other
+AT1G16700,ath00190,Oxidative phosphorylation,other
+AT1G16780,ath00190,Oxidative phosphorylation,other
+AT1G16900,ath00510,N-Glycan biosynthesis,other
+AT1G16980,ath00500,Starch and sucrose metabolism,sugar
+AT1G17000,ath00500,Starch and sucrose metabolism,sugar
+AT1G17160,ath00030,Pentose phosphate pathway,sugar
+AT1G17260,ath00190,Oxidative phosphorylation,other
+AT1G17270,ath00514,O-Glycan biosynthesis,other
+AT1G17290,ath00710; ath00250,"Carbon fixation in photosynthetic organisms; Alanine, aspartate and glutamate metabolism",amino acids
+AT1G17410,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT1G17420,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT1G17745,ath00260,"Glycine, serine and threonine metabolism",other
+AT1G17890,ath00051; ath00520,Fructose and mannose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT1G18500,ath00620,Pyruvate metabolism,other
+AT1G18580,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT1G18640,ath00260,"Glycine, serine and threonine metabolism",other
+AT1G19150,ath00196,Photosynthesis – antenna proteins,other
+AT1G19640,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT1G19910,ath00190,Oxidative phosphorylation,other
+AT1G19920,ath00920; ath00230; ath00450,Sulfur metabolism; Purine metabolism; Selenocompound metabolism,other
+AT1G20020,ath00195,Photosynthesis,other
+AT1G20050,ath00100,Steroid biosynthesis,other
+AT1G20260,ath00190,Oxidative phosphorylation,other
+AT1G20270,ath00330,Arginine and proline metabolism,amino acids
+AT1G20330,ath00100,Steroid biosynthesis,other
+AT1G20340,ath00195,Photosynthesis,other
+AT1G20510,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT1G20575,ath00510,N-Glycan biosynthesis,other
+AT1G20620,ath00380,Tryptophan metabolism,amino acids
+AT1G20630,ath00380,Tryptophan metabolism,amino acids
+AT1G20950,ath00051,Fructose and mannose metabolism,sugar
+AT1G21400,ath00280,"Valine, leucine and isoleucine degradation",amino acids
+AT1G21980,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT1G22020,ath00260; ath00460,"Glycine, serine and threonine metabolism; Cyanoamino acid metabolism",amino acids
+AT1G22430,ath00010; ath00071; ath00350,Glycolysis / Gluconeogenesis; Fatty acid degradation; Tyrosine metabolism,amino acids
+AT1G22440,ath00010; ath00071; ath00350,Glycolysis / Gluconeogenesis; Fatty acid degradation; Tyrosine metabolism,amino acids
+AT1G22450,ath00190,Oxidative phosphorylation,other
+AT1G22940,ath00730,Thiamine metabolism,other
+AT1G23190,ath00010; ath00030; ath00052; ath00500; ath00520; ath00230,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Galactose metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism; Purine metabolism,sugar
+AT1G23310,ath00710; ath00250,"Carbon fixation in photosynthetic organisms; Alanine, aspartate and glutamate metabolism",amino acids
+AT1G23730,ath00910,Nitrogen metabolism,other
+AT1G23800,ath00010; ath00040; ath00053; ath00620; ath00640; ath00071; ath00561; ath00280; ath00330; ath00340; ath00380; ath00410,"Glycolysis / Gluconeogenesis; Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism; Pyruvate metabolism; Propanoate metabolism; Fatty acid degradation; Glycerolipid metabolism; Valine, leucine and isoleucine degradation; Arginine and proline metabolism; Histidine metabolism; Tryptophan metabolism; beta-Alanine metabolism",amino acids
+AT1G23820,ath00270; ath00330; ath00410; ath00480,Cysteine and methionine metabolism; Arginine and proline metabolism; beta-Alanine metabolism; Glutathione metabolism,amino acids
+AT1G24100,ath00380,Tryptophan metabolism,amino acids
+AT1G24110,ath00360,Phenylalanine metabolism,amino acids
+AT1G24180,ath00010; ath00620; ath00650,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Butanoate metabolism,sugar
+AT1G24280,ath00030; ath00480,Pentose phosphate pathway; Glutathione metabolism,sugar
+AT1G24320,ath00510,N-Glycan biosynthesis,other
+AT1G24360,ath00061; ath01040,Fatty acid biosynthesis; Biosynthesis of unsaturated fatty acids,organic-acids
+AT1G24735,ath00360,Phenylalanine metabolism,amino acids
+AT1G26560,ath00500; ath00460,Starch and sucrose metabolism; Cyanoamino acid metabolism,amino acids
+AT1G26570,ath00040; ath00053; ath00500; ath00520,Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT1G27450,ath00230,Purine metabolism,other
+AT1G27680,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT1G27980,ath00600,Sphingolipid metabolism,other
+AT1G29900,ath00240; ath00250,"Pyrimidine metabolism; Alanine, aspartate and glutamate metabolism",amino acids
+AT1G29910,ath00196,Photosynthesis – antenna proteins,other
+AT1G29920,ath00196,Photosynthesis – antenna proteins,other
+AT1G29930,ath00196,Photosynthesis – antenna proteins,other
+AT1G29940,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT1G30000,ath00510,N-Glycan biosynthesis,other
+AT1G30120,ath00010; ath00620; ath00650,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Butanoate metabolism,sugar
+AT1G30350,ath00040,Pentose and glucuronate interconversions,sugar
+AT1G30380,ath00195,Photosynthesis,other
+AT1G30510,ath00195,Photosynthesis,other
+AT1G30620,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT1G30820,ath00240,Pyrimidine metabolism,other
+AT1G30870,ath00360,Phenylalanine metabolism,amino acids
+AT1G31070,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT1G31190,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT1G31220,ath00230,Purine metabolism,other
+AT1G31230,ath00260; ath00270; ath00300,"Glycine, serine and threonine metabolism; Cysteine and methionine metabolism; Lysine biosynthesis",amino acids
+AT1G31330,ath00195,Photosynthesis,other
+AT1G31860,ath00340,Histidine metabolism,amino acids
+AT1G32060,ath00710,Carbon fixation in photosynthetic organisms,other
+AT1G32200,ath00561; ath00564,Glycerolipid metabolism; Glycerophospholipid metabolism,other
+AT1G32210,ath00510,N-Glycan biosynthesis,other
+AT1G32380,ath00030; ath00230,Pentose phosphate pathway; Purine metabolism,sugar
+AT1G32440,ath00010; ath00620; ath00710; ath00230,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Carbon fixation in photosynthetic organisms; Purine metabolism,sugar
+AT1G32550,ath00195,Photosynthesis,other
+AT1G32710,ath00190,Oxidative phosphorylation,other
+AT1G32780,ath00010; ath00071; ath00350,Glycolysis / Gluconeogenesis; Fatty acid degradation; Tyrosine metabolism,amino acids
+AT1G33320,ath00920; ath00270; ath00450,Sulfur metabolism; Cysteine and methionine metabolism; Selenocompound metabolism,amino acids
+AT1G34130,ath00510,N-Glycan biosynthesis,other
+AT1G34430,ath00010; ath00620,Glycolysis / Gluconeogenesis; Pyruvate metabolism,sugar
+AT1G34510,ath00360,Phenylalanine metabolism,amino acids
+AT1G36160,ath00620; ath00640; ath00061,Pyruvate metabolism; Propanoate metabolism; Fatty acid biosynthesis,organic-acids
+AT1G36280,ath00230; ath00250,"Purine metabolism; Alanine, aspartate and glutamate metabolism",amino acids
+AT1G36370,ath00260; ath00460,"Glycine, serine and threonine metabolism; Cyanoamino acid metabolism",amino acids
+AT1G37130,ath00910,Nitrogen metabolism,other
+AT1G42970,ath00710,Carbon fixation in photosynthetic organisms,other
+AT1G43670,ath00010; ath00030; ath00051; ath00710,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Carbon fixation in photosynthetic organisms,sugar
+AT1G43710,ath00340,Histidine metabolism,amino acids
+AT1G43800,ath00061; ath01040,Fatty acid biosynthesis; Biosynthesis of unsaturated fatty acids,organic-acids
+AT1G44170,ath00010; ath00040; ath00053; ath00620; ath00640; ath00071; ath00561; ath00280; ath00330; ath00340; ath00380; ath00410,"Glycolysis / Gluconeogenesis; Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism; Pyruvate metabolism; Propanoate metabolism; Fatty acid degradation; Glycerolipid metabolism; Valine, leucine and isoleucine degradation; Arginine and proline metabolism; Histidine metabolism; Tryptophan metabolism; beta-Alanine metabolism",amino acids
+AT1G44180,ath00330,Arginine and proline metabolism,amino acids
+AT1G44575,ath00195,Photosynthesis,other
+AT1G44820,ath00330,Arginine and proline metabolism,amino acids
+AT1G44970,ath00360,Phenylalanine metabolism,amino acids
+AT1G45474,ath00196,Photosynthesis – antenna proteins,other
+AT1G47840,ath00010; ath00051; ath00052; ath00500; ath00520,Glycolysis / Gluconeogenesis; Fructose and mannose metabolism; Galactose metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT1G48030,ath00010; ath00620; ath00260; ath00280,"Glycolysis / Gluconeogenesis; Pyruvate metabolism; Glycine, serine and threonine metabolism; Valine, leucine and isoleucine degradation",amino acids
+AT1G48130,ath00360,Phenylalanine metabolism,amino acids
+AT1G48140,ath00510,N-Glycan biosynthesis,other
+AT1G48470,ath00910; ath00250; ath00330,"Nitrogen metabolism; Alanine, aspartate and glutamate metabolism; Arginine and proline metabolism",amino acids
+AT1G49140,ath00190,Oxidative phosphorylation,other
+AT1G49340,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT1G49430,ath00071,Fatty acid degradation,organic-acids
+AT1G49570,ath00360,Phenylalanine metabolism,amino acids
+AT1G50090,ath00280,"Valine, leucine and isoleucine degradation",amino acids
+AT1G50110,ath00280,"Valine, leucine and isoleucine degradation",amino acids
+AT1G50430,ath00100,Steroid biosynthesis,other
+AT1G50460,ath00010; ath00051; ath00052; ath00500; ath00520,Glycolysis / Gluconeogenesis; Fructose and mannose metabolism; Galactose metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT1G50840,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT1G51260,ath00561; ath00564,Glycerolipid metabolism; Glycerophospholipid metabolism,other
+AT1G51590,ath00510,N-Glycan biosynthesis,other
+AT1G51650,ath00190,Oxidative phosphorylation,other
+AT1G51680,ath00360,Phenylalanine metabolism,amino acids
+AT1G51720,ath00910; ath00250; ath00330,"Nitrogen metabolism; Alanine, aspartate and glutamate metabolism; Arginine and proline metabolism",amino acids
+AT1G52230,ath00195,Photosynthesis,other
+AT1G53030,ath00190,Oxidative phosphorylation,other
+AT1G53240,ath00620; ath00630; ath00710,Pyruvate metabolism; Glyoxylate and dicarboxylate metabolism; Carbon fixation in photosynthetic organisms,organic-acids
+AT1G53310,ath00620; ath00710,Pyruvate metabolism; Carbon fixation in photosynthetic organisms,other
+AT1G53500,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT1G53770,ath00514,O-Glycan biosynthesis,other
+AT1G53830,ath00040; ath00500,Pentose and glucuronate interconversions; Starch and sucrose metabolism,sugar
+AT1G54100,ath00010; ath00053; ath00620; ath00640; ath00071; ath00561; ath00260; ath00280; ath00300; ath00330; ath00340; ath00380; ath00410,"Glycolysis / Gluconeogenesis; Ascorbate and aldarate metabolism; Pyruvate metabolism; Propanoate metabolism; Fatty acid degradation; Glycerolipid metabolism; Glycine, serine and threonine metabolism; Valine, leucine and isoleucine degradation; Lysine biosynthesis; Arginine and proline metabolism; Histidine metabolism; Tryptophan metabolism; beta-Alanine metabolism",amino acids
+AT1G54220,ath00010; ath00620,Glycolysis / Gluconeogenesis; Pyruvate metabolism,sugar
+AT1G54250,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT1G54340,ath00480,Glutathione metabolism,other
+AT1G55020,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT1G55180,ath00564; ath00565,Glycerophospholipid metabolism; Ether lipid metabolism,other
+AT1G55510,ath00280,"Valine, leucine and isoleucine degradation",amino acids
+AT1G55570,ath00053,Ascorbate and aldarate metabolism,acid-sugars
+AT1G55670,ath00195,Photosynthesis,other
+AT1G55810,ath00240,Pyrimidine metabolism,other
+AT1G55880,ath00920; ath00270,Sulfur metabolism; Cysteine and methionine metabolism,amino acids
+AT1G55920,ath00920; ath00270,Sulfur metabolism; Cysteine and methionine metabolism,amino acids
+AT1G56190,ath00010; ath00710,Glycolysis / Gluconeogenesis; Carbon fixation in photosynthetic organisms,sugar
+AT1G58080,ath00340,Histidine metabolism,amino acids
+AT1G58180,ath00910,Nitrogen metabolism,other
+AT1G58440,ath00100,Steroid biosynthesis,other
+AT1G59900,ath00010; ath00620; ath00650,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Butanoate metabolism,sugar
+AT1G60140,ath00500,Starch and sucrose metabolism,sugar
+AT1G60490,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT1G60890,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT1G60950,ath00195,Photosynthesis,other
+AT1G61050,ath00603,Glycosphingolipid biosynthesis – globo series,other
+AT1G61280,ath00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,alcohol-sugars
+AT1G61520,ath00196,Photosynthesis – antenna proteins,other
+AT1G61700,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT1G61820,ath00500; ath00460,Starch and sucrose metabolism; Cyanoamino acid metabolism,amino acids
+AT1G62380,ath00270,Cysteine and methionine metabolism,amino acids
+AT1G62430,ath00564,Glycerophospholipid metabolism,other
+AT1G62640,ath00061,Fatty acid biosynthesis,organic-acids
+AT1G62660,ath00052; ath00500,Galactose metabolism; Starch and sucrose metabolism,sugar
+AT1G62800,ath00710; ath00250; ath00270; ath00330; ath00350; ath00360,"Carbon fixation in photosynthetic organisms; Alanine, aspartate and glutamate metabolism; Cysteine and methionine metabolism; Arginine and proline metabolism; Tyrosine metabolism; Phenylalanine metabolism",amino acids
+AT1G62940,ath00360,Phenylalanine metabolism,amino acids
+AT1G63000,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT1G63110,ath00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,alcohol-sugars
+AT1G63180,ath00052; ath00520,Galactose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT1G63290,ath00030; ath00040; ath00710,Pentose phosphate pathway; Pentose and glucuronate interconversions; Carbon fixation in photosynthetic organisms,sugar
+AT1G63380,ath00061; ath01040,Fatty acid biosynthesis; Biosynthesis of unsaturated fatty acids,organic-acids
+AT1G63460,ath00590; ath00480,Arachidonic acid metabolism; Glutathione metabolism,organic-acids
+AT1G63660,ath00230,Purine metabolism,other
+AT1G63770,ath00480,Glutathione metabolism,other
+AT1G64190,ath00030; ath00480,Pentose phosphate pathway; Glutathione metabolism,sugar
+AT1G64200,ath00190,Oxidative phosphorylation,other
+AT1G64400,ath00071,Fatty acid degradation,organic-acids
+AT1G64440,ath00052; ath00520,Galactose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT1G64660,ath00270; ath00450,Cysteine and methionine metabolism; Selenocompound metabolism,amino acids
+AT1G64710,ath00010; ath00071; ath00350,Glycolysis / Gluconeogenesis; Fatty acid degradation; Tyrosine metabolism,amino acids
+AT1G65060,ath00360,Phenylalanine metabolism,amino acids
+AT1G65290,ath00190,Oxidative phosphorylation,other
+AT1G65590,ath00520; ath00531; ath00603; ath00604; ath00511,Amino sugar and nucleotide sugar metabolism; Glycosaminoglycan degradation; Glycosphingolipid biosynthesis – globo series; Glycosphingolipid biosynthesis – ganglio series; Other glycan degradation,sugar
+AT1G65820,ath00480,Glutathione metabolism,other
+AT1G65930,ath00480,Glutathione metabolism,other
+AT1G65960,ath00650; ath00250; ath00410; ath00430,"Butanoate metabolism; Alanine, aspartate and glutamate metabolism; beta-Alanine metabolism; Taurine and hypotaurine metabolism",amino acids
+AT1G66430,ath00051; ath00500; ath00520,Fructose and mannose metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT1G67070,ath00051; ath00520,Fructose and mannose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT1G67090,ath00630; ath00710,Glyoxylate and dicarboxylate metabolism; Carbon fixation in photosynthetic organisms,organic-acids
+AT1G67280,ath00620,Pyruvate metabolism,other
+AT1G67320,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT1G67490,ath00510,N-Glycan biosynthesis,other
+AT1G67550,ath00230; ath00330,Purine metabolism; Arginine and proline metabolism,amino acids
+AT1G67560,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT1G67630,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT1G67740,ath00195,Photosynthesis,other
+AT1G67750,ath00040,Pentose and glucuronate interconversions,sugar
+AT1G67880,ath00510,N-Glycan biosynthesis,other
+AT1G68000,ath00562; ath00564,Inositol phosphate metabolism; Glycerophospholipid metabolism,alcohol-sugars
+AT1G68020,ath00500,Starch and sucrose metabolism,sugar
+AT1G68750,ath00620; ath00710,Pyruvate metabolism; Carbon fixation in photosynthetic organisms,other
+AT1G68850,ath00360,Phenylalanine metabolism,amino acids
+AT1G69770,ath00270,Cysteine and methionine metabolism,amino acids
+AT1G69820,ath00590; ath00430; ath00460; ath00480,Arachidonic acid metabolism; Taurine and hypotaurine metabolism; Cyanoamino acid metabolism; Glutathione metabolism,amino acids
+AT1G70310,ath00270; ath00330; ath00410; ath00480,Cysteine and methionine metabolism; Arginine and proline metabolism; beta-Alanine metabolism; Glutathione metabolism,amino acids
+AT1G70410,ath00910,Nitrogen metabolism,other
+AT1G70580,ath00710; ath00250,"Carbon fixation in photosynthetic organisms; Alanine, aspartate and glutamate metabolism",amino acids
+AT1G70730,ath00010; ath00030; ath00052; ath00500; ath00520; ath00230,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Galactose metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism; Purine metabolism,sugar
+AT1G71100,ath00030; ath00710,Pentose phosphate pathway; Carbon fixation in photosynthetic organisms,sugar
+AT1G71695,ath00360,Phenylalanine metabolism,amino acids
+AT1G71750,ath00230,Purine metabolism,other
+AT1G71920,ath00340; ath00350; ath00360,Histidine metabolism; Tyrosine metabolism; Phenylalanine metabolism,amino acids
+AT1G72330,ath00710; ath00250,"Carbon fixation in photosynthetic organisms; Alanine, aspartate and glutamate metabolism",amino acids
+AT1G72520,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT1G72810,ath00260; ath00750,"Glycine, serine and threonine metabolism; Vitamin B6 metabolism",other
+AT1G72880,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT1G72990,ath00052; ath00600; ath00531; ath00604; ath00511,Galactose metabolism; Sphingolipid metabolism; Glycosaminoglycan degradation; Glycosphingolipid biosynthesis – ganglio series; Other glycan degradation,sugar
+AT1G73050,ath00460,Cyanoamino acid metabolism,amino acids
+AT1G73250,ath00051; ath00520,Fructose and mannose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT1G73370,ath00500,Starch and sucrose metabolism,sugar
+AT1G74030,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT1G74040,ath00620,Pyruvate metabolism,other
+AT1G74100,ath00380,Tryptophan metabolism,amino acids
+AT1G74210,ath00564,Glycerophospholipid metabolism,other
+AT1G74260,ath00230,Purine metabolism,other
+AT1G74340,ath00510; ath00563,N-Glycan biosynthesis; Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,alcohol-sugars
+AT1G74540,ath00360,Phenylalanine metabolism,amino acids
+AT1G74550,ath00360,Phenylalanine metabolism,amino acids
+AT1G74920,ath00260,"Glycine, serine and threonine metabolism",other
+AT1G74960,ath00061,Fatty acid biosynthesis,organic-acids
+AT1G75020,ath00561; ath00564,Glycerolipid metabolism; Glycerophospholipid metabolism,other
+AT1G75280,ath00640,Propanoate metabolism,organic-acids
+AT1G75330,ath00330,Arginine and proline metabolism,amino acids
+AT1G75630,ath00190,Oxidative phosphorylation,other
+AT1G76030,ath00190,Oxidative phosphorylation,other
+AT1G76090,ath00100,Steroid biosynthesis,other
+AT1G76100,ath00195,Photosynthesis,other
+AT1G76400,ath00510,N-Glycan biosynthesis,other
+AT1G76550,ath00051,Fructose and mannose metabolism,sugar
+AT1G76570,ath00196,Photosynthesis – antenna proteins,other
+AT1G76680,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT1G76690,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT1G77120,ath00010; ath00071; ath00350,Glycolysis / Gluconeogenesis; Fatty acid degradation; Tyrosine metabolism,amino acids
+AT1G77330,ath00270,Cysteine and methionine metabolism,amino acids
+AT1G77490,ath00053; ath00480,Ascorbate and aldarate metabolism; Glutathione metabolism,acid-sugars
+AT1G77590,ath00071,Fatty acid degradation,organic-acids
+AT1G77740,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT1G77760,ath00910,Nitrogen metabolism,other
+AT1G78570,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT1G78580,ath00500,Starch and sucrose metabolism,sugar
+AT1G78650,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT1G78690,ath00564,Glycerophospholipid metabolism,other
+AT1G78800,ath00510,N-Glycan biosynthesis,other
+AT1G78900,ath00190,Oxidative phosphorylation,other
+AT1G79010,ath00190,Oxidative phosphorylation,other
+AT1G79040,ath00195,Photosynthesis,other
+AT1G79230,ath00270,Cysteine and methionine metabolism,amino acids
+AT1G79440,ath00650; ath00250; ath00350,"Butanoate metabolism; Alanine, aspartate and glutamate metabolism; Tyrosine metabolism",amino acids
+AT1G79470,ath00230,Purine metabolism,other
+AT1G79530,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT1G79550,ath00010; ath00710,Glycolysis / Gluconeogenesis; Carbon fixation in photosynthetic organisms,sugar
+AT1G79750,ath00620; ath00710,Pyruvate metabolism; Carbon fixation in photosynthetic organisms,other
+AT1G80050,ath00230,Purine metabolism,other
+AT1G80230,ath00190,Oxidative phosphorylation,other
+AT1G80460,ath00561,Glycerolipid metabolism,other
+AT1G80600,ath00330,Arginine and proline metabolism,amino acids
+AT1G80660,ath00190,Oxidative phosphorylation,other
+AT1G80740,ath00270,Cysteine and methionine metabolism,amino acids
+AT1G80950,ath00564; ath00565,Glycerophospholipid metabolism; Ether lipid metabolism,other
+AT2G01090,ath00190,Oxidative phosphorylation,other
+AT2G01140,ath00010; ath00030; ath00051; ath00710,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Carbon fixation in photosynthetic organisms,sugar
+AT2G01290,ath00030; ath00710,Pentose phosphate pathway; Carbon fixation in photosynthetic organisms,sugar
+AT2G02000,ath00650; ath00250; ath00410; ath00430,"Butanoate metabolism; Alanine, aspartate and glutamate metabolism; beta-Alanine metabolism; Taurine and hypotaurine metabolism",amino acids
+AT2G02010,ath00650; ath00250; ath00410; ath00430,"Butanoate metabolism; Alanine, aspartate and glutamate metabolism; beta-Alanine metabolism; Taurine and hypotaurine metabolism",amino acids
+AT2G02050,ath00190,Oxidative phosphorylation,other
+AT2G02720,ath00040,Pentose and glucuronate interconversions,sugar
+AT2G02930,ath00480,Glutathione metabolism,other
+AT2G02970,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT2G04350,ath00071,Fatty acid degradation,organic-acids
+AT2G04540,ath00061,Fatty acid biosynthesis,organic-acids
+AT2G04630,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT2G05070,ath00196,Photosynthesis – antenna proteins,other
+AT2G05100,ath00196,Photosynthesis – antenna proteins,other
+AT2G05320,ath00510,N-Glycan biosynthesis,other
+AT2G05710,ath00630,Glyoxylate and dicarboxylate metabolism,organic-acids
+AT2G05830,ath00270,Cysteine and methionine metabolism,amino acids
+AT2G05990,ath00061,Fatty acid biosynthesis,organic-acids
+AT2G06050,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT2G07050,ath00100,Steroid biosynthesis,other
+AT2G07560,ath00190,Oxidative phosphorylation,other
+AT2G07671,ath00190,Oxidative phosphorylation,other
+AT2G07687,ath00190,Oxidative phosphorylation,other
+AT2G07698,ath00190,Oxidative phosphorylation,other
+AT2G07707,ath00190; ath00195,Oxidative phosphorylation; Photosynthesis,other
+AT2G07727,ath00190,Oxidative phosphorylation,other
+AT2G07741,ath00190,Oxidative phosphorylation,other
+AT2G07751,ath00190,Oxidative phosphorylation,other
+AT2G07785,ath00190,Oxidative phosphorylation,other
+AT2G11810,ath00561,Glycerolipid metabolism,other
+AT2G13290,ath00510,N-Glycan biosynthesis,other
+AT2G13360,ath00250; ath00260,"Alanine, aspartate and glutamate metabolism; Glycine, serine and threonine metabolism",amino acids
+AT2G13560,ath00620; ath00710,Pyruvate metabolism; Carbon fixation in photosynthetic organisms,other
+AT2G13810,ath00300,Lysine biosynthesis,amino acids
+AT2G14170,ath00640; ath00562; ath00280,"Propanoate metabolism; Inositol phosphate metabolism; Valine, leucine and isoleucine degradation",amino acids
+AT2G14260,ath00330,Arginine and proline metabolism,amino acids
+AT2G14750,ath00920; ath00230,Sulfur metabolism; Purine metabolism,other
+AT2G15430,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT2G15620,ath00910,Nitrogen metabolism,other
+AT2G16370,ath00240,Pyrimidine metabolism,other
+AT2G16500,ath00330,Arginine and proline metabolism,amino acids
+AT2G16510,ath00190,Oxidative phosphorylation,other
+AT2G16570,ath00230; ath00250,"Purine metabolism; Alanine, aspartate and glutamate metabolism",amino acids
+AT2G16790,ath00030,Pentose phosphate pathway,sugar
+AT2G17265,ath00260,"Glycine, serine and threonine metabolism",other
+AT2G17420,ath00240; ath00450,Pyrimidine metabolism; Selenocompound metabolism,other
+AT2G17630,ath00260; ath00750,"Glycine, serine and threonine metabolism; Vitamin B6 metabolism",other
+AT2G17640,ath00920; ath00270,Sulfur metabolism; Cysteine and methionine metabolism,amino acids
+AT2G17720,ath00330,Arginine and proline metabolism,amino acids
+AT2G18140,ath00360,Phenylalanine metabolism,amino acids
+AT2G18150,ath00360,Phenylalanine metabolism,amino acids
+AT2G18230,ath00190,Oxidative phosphorylation,other
+AT2G18450,ath00190,Oxidative phosphorylation,other
+AT2G18960,ath00190,Oxidative phosphorylation,other
+AT2G18980,ath00360,Phenylalanine metabolism,amino acids
+AT2G19450,ath00561,Glycerolipid metabolism,other
+AT2G19570,ath00240,Pyrimidine metabolism,other
+AT2G19590,ath00270,Cysteine and methionine metabolism,amino acids
+AT2G19680,ath00190,Oxidative phosphorylation,other
+AT2G19800,ath00053; ath00562,Ascorbate and aldarate metabolism; Inositol phosphate metabolism,alcohol-sugars
+AT2G19860,ath00010; ath00051; ath00052; ath00500; ath00520,Glycolysis / Gluconeogenesis; Fructose and mannose metabolism; Galactose metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT2G19900,ath00620; ath00710,Pyruvate metabolism; Carbon fixation in photosynthetic organisms,other
+AT2G19940,ath00300; ath00330,Lysine biosynthesis; Arginine and proline metabolism,amino acids
+AT2G20260,ath00195,Photosynthesis,other
+AT2G20340,ath00350,Tyrosine metabolism,amino acids
+AT2G20360,ath00190,Oxidative phosphorylation,other
+AT2G20420,ath00640,Propanoate metabolism,organic-acids
+AT2G20610,ath00380,Tryptophan metabolism,amino acids
+AT2G20690,ath00740,Riboflavin metabolism,other
+AT2G20800,ath00190,Oxidative phosphorylation,other
+AT2G20810,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT2G21170,ath00010; ath00051; ath00562; ath00710,Glycolysis / Gluconeogenesis; Fructose and mannose metabolism; Inositol phosphate metabolism; Carbon fixation in photosynthetic organisms,sugar
+AT2G21330,ath00010; ath00030; ath00051; ath00710,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Carbon fixation in photosynthetic organisms,sugar
+AT2G21410,ath00190,Oxidative phosphorylation,other
+AT2G21590,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT2G21790,ath00230; ath00240; ath00480,Purine metabolism; Pyrimidine metabolism; Glutathione metabolism,other
+AT2G22230,ath00061,Fatty acid biosynthesis,organic-acids
+AT2G22240,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT2G22330,ath00380,Tryptophan metabolism,amino acids
+AT2G22420,ath00360,Phenylalanine metabolism,amino acids
+AT2G22450,ath00740,Riboflavin metabolism,other
+AT2G22480,ath00010; ath00030; ath00051; ath00052,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Galactose metabolism,sugar
+AT2G22530,ath00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,alcohol-sugars
+AT2G22780,ath00620; ath00630; ath00710,Pyruvate metabolism; Glyoxylate and dicarboxylate metabolism; Carbon fixation in photosynthetic organisms,organic-acids
+AT2G22810,ath00270,Cysteine and methionine metabolism,amino acids
+AT2G22830,ath00100,Steroid biosynthesis,other
+AT2G22910,ath00330,Arginine and proline metabolism,amino acids
+AT2G23096,ath00330,Arginine and proline metabolism,amino acids
+AT2G24200,ath00480,Glutathione metabolism,other
+AT2G24270,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT2G24520,ath00190,Oxidative phosphorylation,other
+AT2G24800,ath00360,Phenylalanine metabolism,amino acids
+AT2G25080,ath00590; ath00480,Arachidonic acid metabolism; Glutathione metabolism,organic-acids
+AT2G25610,ath00190,Oxidative phosphorylation,other
+AT2G25840,ath00380,Tryptophan metabolism,amino acids
+AT2G26080,ath00260,"Glycine, serine and threonine metabolism",other
+AT2G26230,ath00230,Purine metabolism,other
+AT2G26400,ath00270,Cysteine and methionine metabolism,amino acids
+AT2G26420,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT2G26800,ath00650; ath00072; ath00280,"Butanoate metabolism; Synthesis and degradation of ketone bodies; Valine, leucine and isoleucine degradation",organic-acids
+AT2G26870,ath00562; ath00564; ath00565,Inositol phosphate metabolism; Glycerophospholipid metabolism; Ether lipid metabolism,alcohol-sugars
+AT2G27120,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT2G27510,ath00195,Photosynthesis,other
+AT2G27860,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT2G28210,ath00910,Nitrogen metabolism,other
+AT2G28520,ath00190,Oxidative phosphorylation,other
+AT2G28850,ath00100,Steroid biosynthesis,other
+AT2G28860,ath00100,Steroid biosynthesis,other
+AT2G29390,ath00100,Steroid biosynthesis,other
+AT2G29440,ath00480,Glutathione metabolism,other
+AT2G29460,ath00480,Glutathione metabolism,other
+AT2G29480,ath00480,Glutathione metabolism,other
+AT2G29490,ath00480,Glutathione metabolism,other
+AT2G29540,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT2G29560,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT2G29630,ath00730,Thiamine metabolism,other
+AT2G29980,ath01040,Biosynthesis of unsaturated fatty acids,organic-acids
+AT2G29990,ath00190,Oxidative phosphorylation,other
+AT2G30200,ath00061,Fatty acid biosynthesis,organic-acids
+AT2G30490,ath00360,Phenylalanine metabolism,amino acids
+AT2G30570,ath00195,Photosynthesis,other
+AT2G30575,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT2G30650,ath00640; ath00280; ath00410,"Propanoate metabolism; Valine, leucine and isoleucine degradation; beta-Alanine metabolism",amino acids
+AT2G30660,ath00640; ath00280; ath00410,"Propanoate metabolism; Valine, leucine and isoleucine degradation; beta-Alanine metabolism",amino acids
+AT2G30770,ath00380,Tryptophan metabolism,amino acids
+AT2G30790,ath00195,Photosynthesis,other
+AT2G30860,ath00480,Glutathione metabolism,other
+AT2G30970,ath00250; ath00270; ath00330; ath00350; ath00360,"Alanine, aspartate and glutamate metabolism; Cysteine and methionine metabolism; Arginine and proline metabolism; Tyrosine metabolism; Phenylalanine metabolism",amino acids
+AT2G31390,ath00051; ath00500; ath00520,Fructose and mannose metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT2G31570,ath00590; ath00480,Arachidonic acid metabolism; Glutathione metabolism,organic-acids
+AT2G31810,ath00650; ath00660,Butanoate metabolism; C5-Branched dibasic acid metabolism,organic-acids
+AT2G32260,ath00564,Glycerophospholipid metabolism,other
+AT2G33040,ath00190,Oxidative phosphorylation,other
+AT2G33150,ath00071; ath01040; ath00280,"Fatty acid degradation; Biosynthesis of unsaturated fatty acids; Valine, leucine and isoleucine degradation",organic-acids
+AT2G33220,ath00190,Oxidative phosphorylation,other
+AT2G34060,ath00360,Phenylalanine metabolism,amino acids
+AT2G34420,ath00196,Photosynthesis – antenna proteins,other
+AT2G34430,ath00196,Photosynthesis – antenna proteins,other
+AT2G34490,ath00100,Steroid biosynthesis,other
+AT2G34500,ath00100,Steroid biosynthesis,other
+AT2G34590,ath00010; ath00620; ath00650,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Butanoate metabolism,sugar
+AT2G34850,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT2G34890,ath00240,Pyrimidine metabolism,other
+AT2G34980,ath00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,alcohol-sugars
+AT2G35020,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT2G35040,ath00230,Purine metabolism,other
+AT2G35390,ath00030; ath00230,Pentose phosphate pathway; Purine metabolism,sugar
+AT2G35690,ath00071; ath00592; ath01040,Fatty acid degradation; alpha-Linolenic acid metabolism; Biosynthesis of unsaturated fatty acids,organic-acids
+AT2G36190,ath00052; ath00500,Galactose metabolism; Starch and sucrose metabolism,sugar
+AT2G36230,ath00340,Histidine metabolism,amino acids
+AT2G36390,ath00500,Starch and sucrose metabolism,sugar
+AT2G36460,ath00010; ath00030; ath00051; ath00710,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Carbon fixation in photosynthetic organisms,sugar
+AT2G36530,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT2G36580,ath00010; ath00620; ath00710; ath00230,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Carbon fixation in photosynthetic organisms; Purine metabolism,sugar
+AT2G36880,ath00270,Cysteine and methionine metabolism,amino acids
+AT2G37040,ath00910; ath00360,Nitrogen metabolism; Phenylalanine metabolism,amino acids
+AT2G37130,ath00360,Phenylalanine metabolism,amino acids
+AT2G37250,ath00230,Purine metabolism,other
+AT2G37500,ath00330,Arginine and proline metabolism,amino acids
+AT2G37690,ath00230,Purine metabolism,other
+AT2G38040,ath00620; ath00640; ath00061,Pyruvate metabolism; Propanoate metabolism; Fatty acid biosynthesis,organic-acids
+AT2G38110,ath00561; ath00564,Glycerolipid metabolism; Glycerophospholipid metabolism,other
+AT2G38150,ath00603,Glycosphingolipid biosynthesis – globo series,other
+AT2G38230,ath00750,Vitamin B6 metabolism,other
+AT2G38280,ath00230,Purine metabolism,other
+AT2G38380,ath00360,Phenylalanine metabolism,amino acids
+AT2G38390,ath00360,Phenylalanine metabolism,amino acids
+AT2G38400,ath00250; ath00260,"Alanine, aspartate and glutamate metabolism; Glycine, serine and threonine metabolism",amino acids
+AT2G38650,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT2G38670,ath00564,Glycerophospholipid metabolism,other
+AT2G39040,ath00360,Phenylalanine metabolism,amino acids
+AT2G39270,ath00230,Purine metabolism,other
+AT2G39290,ath00564,Glycerophospholipid metabolism,other
+AT2G39630,ath00510,N-Glycan biosynthesis,other
+AT2G39770,ath00051; ath00520,Fructose and mannose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT2G39800,ath00330,Arginine and proline metabolism,amino acids
+AT2G40100,ath00196,Photosynthesis – antenna proteins,other
+AT2G40116,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT2G40190,ath00510,N-Glycan biosynthesis,other
+AT2G40840,ath00500,Starch and sucrose metabolism,sugar
+AT2G40890,ath00360,Phenylalanine metabolism,amino acids
+AT2G41210,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT2G41220,ath00910,Nitrogen metabolism,other
+AT2G41480,ath00360,Phenylalanine metabolism,amino acids
+AT2G41490,ath00510,N-Glycan biosynthesis,other
+AT2G41680,ath00240; ath00450,Pyrimidine metabolism; Selenocompound metabolism,other
+AT2G41880,ath00230,Purine metabolism,other
+AT2G42010,ath00564; ath00565,Glycerophospholipid metabolism; Ether lipid metabolism,other
+AT2G42120,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT2G42490,ath00260; ath00350; ath00360; ath00410,"Glycine, serine and threonine metabolism; Tyrosine metabolism; Phenylalanine metabolism; beta-Alanine metabolism",amino acids
+AT2G42600,ath00620; ath00710,Pyruvate metabolism; Carbon fixation in photosynthetic organisms,other
+AT2G42670,ath00430,Taurine and hypotaurine metabolism,other
+AT2G42790,ath00630,Glyoxylate and dicarboxylate metabolism,organic-acids
+AT2G43080,ath00330,Arginine and proline metabolism,amino acids
+AT2G43090,ath00660,C5-Branched dibasic acid metabolism,organic-acids
+AT2G43100,ath00660,C5-Branched dibasic acid metabolism,organic-acids
+AT2G43480,ath00360,Phenylalanine metabolism,amino acids
+AT2G43710,ath00061; ath01040,Fatty acid biosynthesis; Biosynthesis of unsaturated fatty acids,organic-acids
+AT2G43750,ath00920; ath00270,Sulfur metabolism; Cysteine and methionine metabolism,amino acids
+AT2G44040,ath00300,Lysine biosynthesis,amino acids
+AT2G44050,ath00740,Riboflavin metabolism,other
+AT2G44350,ath00630,Glyoxylate and dicarboxylate metabolism,organic-acids
+AT2G44450,ath00500; ath00460,Starch and sucrose metabolism; Cyanoamino acid metabolism,amino acids
+AT2G44460,ath00380,Tryptophan metabolism,amino acids
+AT2G44470,ath00380,Tryptophan metabolism,amino acids
+AT2G44480,ath00500; ath00460,Starch and sucrose metabolism; Cyanoamino acid metabolism,amino acids
+AT2G44490,ath00380,Tryptophan metabolism,amino acids
+AT2G44520,ath00190,Oxidative phosphorylation,other
+AT2G44530,ath00030; ath00230,Pentose phosphate pathway; Purine metabolism,sugar
+AT2G44620,ath00190,Oxidative phosphorylation,other
+AT2G44660,ath00510,N-Glycan biosynthesis,other
+AT2G44750,ath00730,Thiamine metabolism,other
+AT2G44810,ath00564; ath00592,Glycerophospholipid metabolism; alpha-Linolenic acid metabolism,organic-acids
+AT2G45220,ath00040; ath00500,Pentose and glucuronate interconversions; Starch and sucrose metabolism,sugar
+AT2G45290,ath00030; ath00710,Pentose phosphate pathway; Carbon fixation in photosynthetic organisms,sugar
+AT2G45310,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT2G45440,ath00300,Lysine biosynthesis,amino acids
+AT2G45670,ath00564; ath00565,Glycerophospholipid metabolism; Ether lipid metabolism,other
+AT2G45790,ath00051; ath00520,Fructose and mannose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT2G46480,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT2G46860,ath00190,Oxidative phosphorylation,other
+AT2G47030,ath00040; ath00500,Pentose and glucuronate interconversions; Starch and sucrose metabolism,sugar
+AT2G47240,ath00071,Fatty acid degradation,organic-acids
+AT2G47690,ath00190,Oxidative phosphorylation,other
+AT2G47730,ath00480,Glutathione metabolism,other
+AT2G47760,ath00510,N-Glycan biosynthesis,other
+AT2G48150,ath00590; ath00480,Arachidonic acid metabolism; Glutathione metabolism,organic-acids
+AT3G01040,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT3G01120,ath00920; ath00270; ath00450,Sulfur metabolism; Cysteine and methionine metabolism; Selenocompound metabolism,amino acids
+AT3G01180,ath00500,Starch and sucrose metabolism,sugar
+AT3G01190,ath00360,Phenylalanine metabolism,amino acids
+AT3G01260,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT3G01270,ath00040,Pentose and glucuronate interconversions,sugar
+AT3G01390,ath00190,Oxidative phosphorylation,other
+AT3G01420,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT3G01440,ath00195,Photosynthesis,other
+AT3G01500,ath00910,Nitrogen metabolism,other
+AT3G01590,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT3G01620,ath00510,N-Glycan biosynthesis,other
+AT3G01850,ath00030; ath00040; ath00710,Pentose phosphate pathway; Pentose and glucuronate interconversions; Carbon fixation in photosynthetic organisms,sugar
+AT3G01910,ath00920,Sulfur metabolism,other
+AT3G02020,ath00260; ath00270; ath00300,"Glycine, serine and threonine metabolism; Cysteine and methionine metabolism; Lysine biosynthesis",amino acids
+AT3G02350,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT3G02360,ath00030; ath00480,Pentose phosphate pathway; Glutathione metabolism,sugar
+AT3G02470,ath00270; ath00330,Cysteine and methionine metabolism; Arginine and proline metabolism,amino acids
+AT3G02570,ath00051; ath00520,Fructose and mannose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT3G02580,ath00100,Steroid biosynthesis,other
+AT3G02590,ath00100,Steroid biosynthesis,other
+AT3G02610,ath00061; ath01040,Fatty acid biosynthesis; Biosynthesis of unsaturated fatty acids,organic-acids
+AT3G02620,ath00061; ath01040,Fatty acid biosynthesis; Biosynthesis of unsaturated fatty acids,organic-acids
+AT3G02630,ath00061; ath01040,Fatty acid biosynthesis; Biosynthesis of unsaturated fatty acids,organic-acids
+AT3G02870,ath00053; ath00562,Ascorbate and aldarate metabolism; Inositol phosphate metabolism,alcohol-sugars
+AT3G03070,ath00190,Oxidative phosphorylation,other
+AT3G03100,ath00190,Oxidative phosphorylation,other
+AT3G03190,ath00480,Glutathione metabolism,other
+AT3G03250,ath00040; ath00052; ath00500; ath00520,Pentose and glucuronate interconversions; Galactose metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT3G03520,ath00562; ath00564; ath00565,Inositol phosphate metabolism; Glycerophospholipid metabolism; Ether lipid metabolism,alcohol-sugars
+AT3G03530,ath00562; ath00564; ath00565,Inositol phosphate metabolism; Glycerophospholipid metabolism; Ether lipid metabolism,alcohol-sugars
+AT3G03540,ath00562; ath00564; ath00565,Inositol phosphate metabolism; Glycerophospholipid metabolism; Ether lipid metabolism,alcohol-sugars
+AT3G03630,ath00920; ath00270,Sulfur metabolism; Cysteine and methionine metabolism,amino acids
+AT3G03670,ath00360,Phenylalanine metabolism,amino acids
+AT3G03710,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT3G03780,ath00270; ath00450,Cysteine and methionine metabolism; Selenocompound metabolism,amino acids
+AT3G03900,ath00920; ath00230,Sulfur metabolism; Purine metabolism,other
+AT3G03910,ath00910; ath00250; ath00330,"Nitrogen metabolism; Alanine, aspartate and glutamate metabolism; Arginine and proline metabolism",amino acids
+AT3G03980,ath00061; ath01040,Fatty acid biosynthesis; Biosynthesis of unsaturated fatty acids,organic-acids
+AT3G04000,ath00061; ath01040,Fatty acid biosynthesis; Biosynthesis of unsaturated fatty acids,organic-acids
+AT3G04050,ath00010; ath00620; ath00710; ath00230,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Carbon fixation in photosynthetic organisms; Purine metabolism,sugar
+AT3G04080,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT3G04120,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT3G04240,ath00514,O-Glycan biosynthesis,other
+AT3G04520,ath00260,"Glycine, serine and threonine metabolism",other
+AT3G04600,ath00380,Tryptophan metabolism,amino acids
+AT3G04790,ath00030; ath00710,Pentose phosphate pathway; Carbon fixation in photosynthetic organisms,sugar
+AT3G04940,ath00920; ath00270,Sulfur metabolism; Cysteine and methionine metabolism,amino acids
+AT3G05630,ath00564; ath00565,Glycerophospholipid metabolism; Ether lipid metabolism,other
+AT3G05970,ath00071,Fatty acid degradation,organic-acids
+AT3G06060,ath00600,Sphingolipid metabolism,other
+AT3G06200,ath00230,Purine metabolism,other
+AT3G06300,ath00330,Arginine and proline metabolism,amino acids
+AT3G06310,ath00190,Oxidative phosphorylation,other
+AT3G06580,ath00052; ath00520,Galactose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT3G06810,ath00640; ath00071; ath00280; ath00410,"Propanoate metabolism; Fatty acid degradation; Valine, leucine and isoleucine degradation; beta-Alanine metabolism",amino acids
+AT3G06850,ath00280,"Valine, leucine and isoleucine degradation",amino acids
+AT3G06860,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT3G07010,ath00040,Pentose and glucuronate interconversions,sugar
+AT3G07140,ath00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,alcohol-sugars
+AT3G07800,ath00240,Pyrimidine metabolism,other
+AT3G07850,ath00040; ath00500,Pentose and glucuronate interconversions; Starch and sucrose metabolism,sugar
+AT3G07960,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT3G07990,ath00460,Cyanoamino acid metabolism,amino acids
+AT3G08510,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT3G08560,ath00190,Oxidative phosphorylation,other
+AT3G08590,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT3G08610,ath00190,Oxidative phosphorylation,other
+AT3G08860,ath00250; ath00260,"Alanine, aspartate and glutamate metabolism; Glycine, serine and threonine metabolism",amino acids
+AT3G08940,ath00196,Photosynthesis – antenna proteins,other
+AT3G09020,ath00603,Glycosphingolipid biosynthesis – globo series,other
+AT3G09540,ath00040,Pentose and glucuronate interconversions,sugar
+AT3G09640,ath00053; ath00480,Ascorbate and aldarate metabolism; Glutathione metabolism,acid-sugars
+AT3G09820,ath00230,Purine metabolism,other
+AT3G09920,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT3G09940,ath00053,Ascorbate and aldarate metabolism,acid-sugars
+AT3G10050,ath00260,"Glycine, serine and threonine metabolism",other
+AT3G10340,ath00910; ath00360,Nitrogen metabolism; Phenylalanine metabolism,amino acids
+AT3G10370,ath00564,Glycerophospholipid metabolism,other
+AT3G10700,ath00052; ath00520,Galactose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT3G10850,ath00620,Pyruvate metabolism,other
+AT3G11040,ath00511,Other glycan degradation,other
+AT3G11170,ath01040,Biosynthesis of unsaturated fatty acids,organic-acids
+AT3G11430,ath00561; ath00564,Glycerolipid metabolism; Glycerophospholipid metabolism,other
+AT3G11670,ath00561,Glycerolipid metabolism,other
+AT3G12120,ath01040,Biosynthesis of unsaturated fatty acids,organic-acids
+AT3G12260,ath00190,Oxidative phosphorylation,other
+AT3G12500,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT3G12670,ath00240,Pyrimidine metabolism,other
+AT3G12780,ath00010; ath00710,Glycolysis / Gluconeogenesis; Carbon fixation in photosynthetic organisms,sugar
+AT3G13110,ath00920; ath00270,Sulfur metabolism; Cysteine and methionine metabolism,amino acids
+AT3G13450,ath00280,"Valine, leucine and isoleucine degradation",amino acids
+AT3G13790,ath00052; ath00500,Galactose metabolism; Starch and sucrose metabolism,sugar
+AT3G13930,ath00010; ath00620,Glycolysis / Gluconeogenesis; Pyruvate metabolism,sugar
+AT3G13940,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT3G14130,ath00630,Glyoxylate and dicarboxylate metabolism,organic-acids
+AT3G14150,ath00630,Glyoxylate and dicarboxylate metabolism,organic-acids
+AT3G14270,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT3G14390,ath00300,Lysine biosynthesis,amino acids
+AT3G14415,ath00630,Glyoxylate and dicarboxylate metabolism,organic-acids
+AT3G14420,ath00630,Glyoxylate and dicarboxylate metabolism,organic-acids
+AT3G14790,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT3G14940,ath00620; ath00710,Pyruvate metabolism; Carbon fixation in photosynthetic organisms,other
+AT3G15020,ath00620; ath00630; ath00710,Pyruvate metabolism; Glyoxylate and dicarboxylate metabolism; Carbon fixation in photosynthetic organisms,organic-acids
+AT3G15290,ath00650,Butanoate metabolism,organic-acids
+AT3G15352,ath00190,Oxidative phosphorylation,other
+AT3G15640,ath00190,Oxidative phosphorylation,other
+AT3G15720,ath00040; ath00500,Pentose and glucuronate interconversions; Starch and sucrose metabolism,sugar
+AT3G15730,ath00564; ath00565,Glycerophospholipid metabolism; Ether lipid metabolism,other
+AT3G15850,ath01040,Biosynthesis of unsaturated fatty acids,organic-acids
+AT3G16050,ath00750,Vitamin B6 metabolism,other
+AT3G16140,ath00195,Photosynthesis,other
+AT3G16785,ath00564; ath00565,Glycerophospholipid metabolism; Ether lipid metabolism,other
+AT3G16950,ath00010; ath00620; ath00260; ath00280,"Glycolysis / Gluconeogenesis; Pyruvate metabolism; Glycine, serine and threonine metabolism; Valine, leucine and isoleucine degradation",amino acids
+AT3G16980,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT3G17070,ath00360,Phenylalanine metabolism,amino acids
+AT3G17240,ath00010; ath00620; ath00260; ath00280,"Glycolysis / Gluconeogenesis; Pyruvate metabolism; Glycine, serine and threonine metabolism; Valine, leucine and isoleucine degradation",amino acids
+AT3G17390,ath00270,Cysteine and methionine metabolism,amino acids
+AT3G17760,ath00650; ath00250; ath00410; ath00430,"Butanoate metabolism; Alanine, aspartate and glutamate metabolism; beta-Alanine metabolism; Taurine and hypotaurine metabolism",amino acids
+AT3G17810,ath00240; ath00410,Pyrimidine metabolism; beta-Alanine metabolism,amino acids
+AT3G17820,ath00910; ath00250; ath00330,"Nitrogen metabolism; Alanine, aspartate and glutamate metabolism; Arginine and proline metabolism",amino acids
+AT3G17940,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT3G18000,ath00564,Glycerophospholipid metabolism,other
+AT3G18080,ath00500; ath00460,Starch and sucrose metabolism; Cyanoamino acid metabolism,amino acids
+AT3G18410,ath00190,Oxidative phosphorylation,other
+AT3G18680,ath00240,Pyrimidine metabolism,other
+AT3G18850,ath00561; ath00564,Glycerolipid metabolism; Glycerophospholipid metabolism,other
+AT3G19420,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT3G19480,ath00260,"Glycine, serine and threonine metabolism",other
+AT3G19710,ath00280,"Valine, leucine and isoleucine degradation",amino acids
+AT3G19820,ath00100,Steroid biosynthesis,other
+AT3G20040,ath00010; ath00051; ath00052; ath00500; ath00520,Glycolysis / Gluconeogenesis; Fructose and mannose metabolism; Galactose metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT3G20330,ath00240; ath00250,"Pyrimidine metabolism; Alanine, aspartate and glutamate metabolism",amino acids
+AT3G20540,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT3G21110,ath00230,Purine metabolism,other
+AT3G21160,ath00510,N-Glycan biosynthesis,other
+AT3G21230,ath00360,Phenylalanine metabolism,amino acids
+AT3G21240,ath00360,Phenylalanine metabolism,amino acids
+AT3G21300,ath00340; ath00350,Histidine metabolism; Tyrosine metabolism,amino acids
+AT3G21720,ath00630,Glyoxylate and dicarboxylate metabolism,organic-acids
+AT3G21770,ath00360,Phenylalanine metabolism,amino acids
+AT3G22320,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT3G22400,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT3G22425,ath00340,Histidine metabolism,amino acids
+AT3G22460,ath00920; ath00270,Sulfur metabolism; Cysteine and methionine metabolism,amino acids
+AT3G22740,ath00270,Cysteine and methionine metabolism,amino acids
+AT3G22890,ath00920; ath00230; ath00450,Sulfur metabolism; Purine metabolism; Selenocompound metabolism,other
+AT3G22960,ath00010; ath00620; ath00710; ath00230,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Carbon fixation in photosynthetic organisms; Purine metabolism,sugar
+AT3G23490,ath00910,Nitrogen metabolism,other
+AT3G23580,ath00230; ath00240; ath00480,Purine metabolism; Pyrimidine metabolism; Glutathione metabolism,other
+AT3G23790,ath00071,Fatty acid degradation,organic-acids
+AT3G23810,ath00270,Cysteine and methionine metabolism,amino acids
+AT3G23820,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT3G24030,ath00730,Thiamine metabolism,other
+AT3G24090,ath00520; ath00250,"Amino sugar and nucleotide sugar metabolism; Alanine, aspartate and glutamate metabolism",amino acids
+AT3G24170,ath00480,Glutathione metabolism,other
+AT3G24230,ath00040,Pentose and glucuronate interconversions,sugar
+AT3G24360,ath00640; ath00650; ath00071; ath00280; ath00380; ath00410,"Propanoate metabolism; Butanoate metabolism; Fatty acid degradation; Valine, leucine and isoleucine degradation; Tryptophan metabolism; beta-Alanine metabolism",amino acids
+AT3G24670,ath00040,Pentose and glucuronate interconversions,sugar
+AT3G25110,ath00061,Fatty acid biosynthesis,organic-acids
+AT3G25140,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT3G25570,ath00270; ath00330,Cysteine and methionine metabolism; Arginine and proline metabolism,amino acids
+AT3G25760,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT3G25770,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT3G25780,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT3G25900,ath00270,Cysteine and methionine metabolism,amino acids
+AT3G25940,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT3G25960,ath00010; ath00620; ath00710; ath00230,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Carbon fixation in photosynthetic organisms; Purine metabolism,sugar
+AT3G26650,ath00710,Carbon fixation in photosynthetic organisms,other
+AT3G26720,ath00511,Other glycan degradation,other
+AT3G27060,ath00230; ath00240; ath00480,Purine metabolism; Pyrimidine metabolism; Glutathione metabolism,other
+AT3G27180,ath00340; ath00350,Histidine metabolism; Tyrosine metabolism,amino acids
+AT3G27190,ath00240,Pyrimidine metabolism,other
+AT3G27240,ath00190,Oxidative phosphorylation,other
+AT3G27300,ath00030; ath00480,Pentose phosphate pathway; Glutathione metabolism,sugar
+AT3G27380,ath00190,Oxidative phosphorylation,other
+AT3G27400,ath00040,Pentose and glucuronate interconversions,sugar
+AT3G27440,ath00240,Pyrimidine metabolism,other
+AT3G27540,ath00510,N-Glycan biosynthesis,other
+AT3G27690,ath00196,Photosynthesis – antenna proteins,other
+AT3G27740,ath00240; ath00250,"Pyrimidine metabolism; Alanine, aspartate and glutamate metabolism",amino acids
+AT3G27820,ath00053,Ascorbate and aldarate metabolism,acid-sugars
+AT3G28200,ath00360,Phenylalanine metabolism,amino acids
+AT3G28480,ath00330,Arginine and proline metabolism,amino acids
+AT3G28490,ath00330,Arginine and proline metabolism,amino acids
+AT3G28710,ath00190,Oxidative phosphorylation,other
+AT3G28715,ath00190,Oxidative phosphorylation,other
+AT3G29090,ath00040; ath00500,Pentose and glucuronate interconversions; Starch and sucrose metabolism,sugar
+AT3G29320,ath00500,Starch and sucrose metabolism,sugar
+AT3G29360,ath00040; ath00053; ath00500; ath00520,Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT3G30775,ath00330,Arginine and proline metabolism,amino acids
+AT3G42050,ath00190,Oxidative phosphorylation,other
+AT3G42640,ath00190,Oxidative phosphorylation,other
+AT3G42850,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT3G43190,ath00500,Starch and sucrose metabolism,sugar
+AT3G43270,ath00040; ath00500,Pentose and glucuronate interconversions; Starch and sucrose metabolism,sugar
+AT3G43800,ath00480,Glutathione metabolism,other
+AT3G43860,ath00500,Starch and sucrose metabolism,sugar
+AT3G44300,ath00910; ath00380; ath00460,Nitrogen metabolism; Tryptophan metabolism; Cyanoamino acid metabolism,amino acids
+AT3G44310,ath00910; ath00380; ath00460,Nitrogen metabolism; Tryptophan metabolism; Cyanoamino acid metabolism,amino acids
+AT3G44320,ath00910; ath00380; ath00460,Nitrogen metabolism; Tryptophan metabolism; Cyanoamino acid metabolism,amino acids
+AT3G45040,ath00510,N-Glycan biosynthesis,other
+AT3G45100,ath00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,alcohol-sugars
+AT3G45130,ath00100,Steroid biosynthesis,other
+AT3G45140,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT3G45300,ath00280,"Valine, leucine and isoleucine degradation",amino acids
+AT3G45770,ath00062,Fatty acid elongation,organic-acids
+AT3G45940,ath00052; ath00500,Galactose metabolism; Starch and sucrose metabolism,sugar
+AT3G46940,ath00240,Pyrimidine metabolism,other
+AT3G46970,ath00500,Starch and sucrose metabolism,sugar
+AT3G47000,ath00500; ath00460,Starch and sucrose metabolism; Cyanoamino acid metabolism,amino acids
+AT3G47050,ath00500; ath00460,Starch and sucrose metabolism; Cyanoamino acid metabolism,amino acids
+AT3G47340,ath00910; ath00250,"Nitrogen metabolism; Alanine, aspartate and glutamate metabolism",amino acids
+AT3G47450,ath00330,Arginine and proline metabolism,amino acids
+AT3G47470,ath00196,Photosynthesis – antenna proteins,other
+AT3G47520,ath00620; ath00630; ath00710,Pyruvate metabolism; Glyoxylate and dicarboxylate metabolism; Carbon fixation in photosynthetic organisms,organic-acids
+AT3G47800,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT3G47930,ath00053,Ascorbate and aldarate metabolism,acid-sugars
+AT3G47950,ath00190,Oxidative phosphorylation,other
+AT3G48000,ath00010; ath00040; ath00053; ath00620; ath00640; ath00071; ath00561; ath00280; ath00330; ath00340; ath00380; ath00410,"Glycolysis / Gluconeogenesis; Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism; Pyruvate metabolism; Propanoate metabolism; Fatty acid degradation; Glycerolipid metabolism; Valine, leucine and isoleucine degradation; Arginine and proline metabolism; Histidine metabolism; Tryptophan metabolism; beta-Alanine metabolism",amino acids
+AT3G48170,ath00260,"Glycine, serine and threonine metabolism",other
+AT3G48540,ath00240,Pyrimidine metabolism,other
+AT3G48560,ath00650; ath00660,Butanoate metabolism; C5-Branched dibasic acid metabolism,organic-acids
+AT3G48610,ath00562; ath00564; ath00565,Inositol phosphate metabolism; Glycerophospholipid metabolism; Ether lipid metabolism,alcohol-sugars
+AT3G48780,ath00600,Sphingolipid metabolism,other
+AT3G48790,ath00600,Sphingolipid metabolism,other
+AT3G49000,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT3G49110,ath00360,Phenylalanine metabolism,amino acids
+AT3G49120,ath00360,Phenylalanine metabolism,amino acids
+AT3G49160,ath00010; ath00620; ath00710; ath00230,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Carbon fixation in photosynthetic organisms; Purine metabolism,sugar
+AT3G49360,ath00030,Pentose phosphate pathway,sugar
+AT3G49680,ath00280,"Valine, leucine and isoleucine degradation",amino acids
+AT3G49700,ath00270,Cysteine and methionine metabolism,amino acids
+AT3G49960,ath00360,Phenylalanine metabolism,amino acids
+AT3G50110,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT3G50520,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT3G50820,ath00195,Photosynthesis,other
+AT3G51160,ath00051; ath00520,Fructose and mannose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT3G51840,ath00071; ath00592; ath01040,Fatty acid degradation; alpha-Linolenic acid metabolism; Biosynthesis of unsaturated fatty acids,organic-acids
+AT3G52090,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT3G52200,ath00010; ath00620,Glycolysis / Gluconeogenesis; Pyruvate metabolism,sugar
+AT3G52300,ath00190,Oxidative phosphorylation,other
+AT3G52720,ath00910,Nitrogen metabolism,other
+AT3G52730,ath00190,Oxidative phosphorylation,other
+AT3G52840,ath00052; ath00600; ath00511,Galactose metabolism; Sphingolipid metabolism; Other glycan degradation,sugar
+AT3G52880,ath00053,Ascorbate and aldarate metabolism,acid-sugars
+AT3G52930,ath00010; ath00030; ath00051; ath00710,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Carbon fixation in photosynthetic organisms,sugar
+AT3G52940,ath00100,Steroid biosynthesis,other
+AT3G52990,ath00010; ath00620; ath00710; ath00230,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Carbon fixation in photosynthetic organisms; Purine metabolism,sugar
+AT3G53190,ath00040,Pentose and glucuronate interconversions,sugar
+AT3G53260,ath00910; ath00360,Nitrogen metabolism; Phenylalanine metabolism,amino acids
+AT3G53580,ath00300,Lysine biosynthesis,amino acids
+AT3G53620,ath00190,Oxidative phosphorylation,other
+AT3G53900,ath00240,Pyrimidine metabolism,other
+AT3G54050,ath00010; ath00030; ath00051; ath00710,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Carbon fixation in photosynthetic organisms,sugar
+AT3G54420,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT3G54440,ath00052; ath00600; ath00511,Galactose metabolism; Sphingolipid metabolism; Other glycan degradation,sugar
+AT3G54470,ath00240,Pyrimidine metabolism,other
+AT3G54640,ath00260,"Glycine, serine and threonine metabolism",other
+AT3G54660,ath00480,Glutathione metabolism,other
+AT3G54890,ath00196,Photosynthesis – antenna proteins,other
+AT3G54920,ath00040,Pentose and glucuronate interconversions,sugar
+AT3G55010,ath00230,Purine metabolism,other
+AT3G55030,ath00564,Glycerophospholipid metabolism,other
+AT3G55140,ath00040,Pentose and glucuronate interconversions,sugar
+AT3G55260,ath00520; ath00531; ath00603; ath00604; ath00511,Amino sugar and nucleotide sugar metabolism; Glycosaminoglycan degradation; Glycosphingolipid biosynthesis – globo series; Glycosphingolipid biosynthesis – ganglio series; Other glycan degradation,sugar
+AT3G55330,ath00195,Photosynthesis,other
+AT3G55360,ath01040,Biosynthesis of unsaturated fatty acids,organic-acids
+AT3G55400,ath00450,Selenocompound metabolism,other
+AT3G55410,ath00380,Tryptophan metabolism,amino acids
+AT3G55440,ath00010; ath00051; ath00562; ath00710,Glycolysis / Gluconeogenesis; Fructose and mannose metabolism; Inositol phosphate metabolism; Carbon fixation in photosynthetic organisms,sugar
+AT3G55590,ath00051; ath00520,Fructose and mannose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT3G55610,ath00330,Arginine and proline metabolism,amino acids
+AT3G55650,ath00010; ath00620; ath00710; ath00230,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Carbon fixation in photosynthetic organisms; Purine metabolism,sugar
+AT3G55800,ath00710,Carbon fixation in photosynthetic organisms,other
+AT3G55810,ath00010; ath00620; ath00710; ath00230,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Carbon fixation in photosynthetic organisms; Purine metabolism,sugar
+AT3G55940,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT3G56310,ath00052; ath00561; ath00600; ath00603,Galactose metabolism; Glycerolipid metabolism; Sphingolipid metabolism; Glycosphingolipid biosynthesis – globo series,sugar
+AT3G56960,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT3G57050,ath00910; ath00920; ath00270; ath00450,Nitrogen metabolism; Sulfur metabolism; Cysteine and methionine metabolism; Selenocompound metabolism,amino acids
+AT3G57220,ath00510,N-Glycan biosynthesis,other
+AT3G57510,ath00040; ath00500,Pentose and glucuronate interconversions; Starch and sucrose metabolism,sugar
+AT3G57550,ath00230,Purine metabolism,other
+AT3G57560,ath00300; ath00330,Lysine biosynthesis; Arginine and proline metabolism,amino acids
+AT3G57610,ath00230; ath00250,"Purine metabolism; Alanine, aspartate and glutamate metabolism",amino acids
+AT3G57650,ath00561; ath00564,Glycerolipid metabolism; Glycerophospholipid metabolism,other
+AT3G57660,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT3G58670,ath00430,Taurine and hypotaurine metabolism,other
+AT3G58730,ath00190,Oxidative phosphorylation,other
+AT3G58740,ath00630,Glyoxylate and dicarboxylate metabolism,organic-acids
+AT3G58750,ath00630,Glyoxylate and dicarboxylate metabolism,organic-acids
+AT3G58790,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT3G58990,ath00660,C5-Branched dibasic acid metabolism,organic-acids
+AT3G59480,ath00051; ath00500; ath00520,Fructose and mannose metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT3G59600,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT3G59760,ath00920; ath00270,Sulfur metabolism; Cysteine and methionine metabolism,amino acids
+AT3G59850,ath00040; ath00500,Pentose and glucuronate interconversions; Starch and sucrose metabolism,sugar
+AT3G59890,ath00300,Lysine biosynthesis,amino acids
+AT3G60100,ath00630,Glyoxylate and dicarboxylate metabolism,organic-acids
+AT3G60180,ath00240,Pyrimidine metabolism,other
+AT3G60330,ath00190,Oxidative phosphorylation,other
+AT3G60340,ath00062,Fatty acid elongation,organic-acids
+AT3G60750,ath00030; ath00710,Pentose phosphate pathway; Carbon fixation in photosynthetic organisms,sugar
+AT3G60880,ath00300,Lysine biosynthesis,amino acids
+AT3G61130,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT3G61440,ath00920; ath00270; ath00460,Sulfur metabolism; Cysteine and methionine metabolism; Cyanoamino acid metabolism,amino acids
+AT3G61470,ath00196,Photosynthesis – antenna proteins,other
+AT3G61510,ath00270,Cysteine and methionine metabolism,amino acids
+AT3G61610,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT3G62790,ath00190,Oxidative phosphorylation,other
+AT3G63080,ath00590; ath00480,Arachidonic acid metabolism; Glutathione metabolism,organic-acids
+AT3G63250,ath00270,Cysteine and methionine metabolism,amino acids
+AT4G00110,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT4G00400,ath00561; ath00564,Glycerolipid metabolism; Glycerophospholipid metabolism,other
+AT4G00520,ath01040,Biosynthesis of unsaturated fatty acids,organic-acids
+AT4G00550,ath00561,Glycerolipid metabolism,other
+AT4G00570,ath00620; ath00710,Pyruvate metabolism; Carbon fixation in photosynthetic organisms,other
+AT4G01190,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT4G01480,ath00190,Oxidative phosphorylation,other
+AT4G01590,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT4G01850,ath00270,Cysteine and methionine metabolism,amino acids
+AT4G01950,ath00561; ath00564,Glycerolipid metabolism; Glycerophospholipid metabolism,other
+AT4G01970,ath00052,Galactose metabolism,sugar
+AT4G02120,ath00240,Pyrimidine metabolism,other
+AT4G02280,ath00500,Starch and sucrose metabolism,sugar
+AT4G02520,ath00480,Glutathione metabolism,other
+AT4G02580,ath00190,Oxidative phosphorylation,other
+AT4G02610,ath00260,"Glycine, serine and threonine metabolism",other
+AT4G02620,ath00190,Oxidative phosphorylation,other
+AT4G02770,ath00195,Photosynthesis,other
+AT4G03280,ath00195,Photosynthesis,other
+AT4G04040,ath00051,Fructose and mannose metabolism,sugar
+AT4G04320,ath00640; ath00410,Propanoate metabolism; beta-Alanine metabolism,amino acids
+AT4G04640,ath00190; ath00195,Oxidative phosphorylation; Photosynthesis,other
+AT4G04870,ath00564,Glycerophospholipid metabolism,other
+AT4G04880,ath00230,Purine metabolism,other
+AT4G04930,ath00600,Sphingolipid metabolism,other
+AT4G04955,ath00230,Purine metabolism,other
+AT4G05020,ath00190,Oxidative phosphorylation,other
+AT4G05090,ath00920,Sulfur metabolism,other
+AT4G05160,ath00360,Phenylalanine metabolism,amino acids
+AT4G05180,ath00195,Photosynthesis,other
+AT4G05390,ath00195,Photosynthesis,other
+AT4G07950,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT4G08040,ath00270,Cysteine and methionine metabolism,amino acids
+AT4G08170,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT4G08390,ath00053; ath00480,Ascorbate and aldarate metabolism; Glutathione metabolism,acid-sugars
+AT4G08770,ath00360,Phenylalanine metabolism,amino acids
+AT4G08780,ath00360,Phenylalanine metabolism,amino acids
+AT4G08870,ath00330,Arginine and proline metabolism,amino acids
+AT4G08900,ath00330,Arginine and proline metabolism,amino acids
+AT4G08990,ath00270,Cysteine and methionine metabolism,amino acids
+AT4G09010,ath00053; ath00480,Ascorbate and aldarate metabolism; Glutathione metabolism,acid-sugars
+AT4G09320,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT4G09650,ath00190; ath00195,Oxidative phosphorylation; Photosynthesis,other
+AT4G10120,ath00500,Starch and sucrose metabolism,sugar
+AT4G10260,ath00051; ath00500; ath00520,Fructose and mannose metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT4G10340,ath00196,Photosynthesis – antenna proteins,other
+AT4G10960,ath00052; ath00520,Galactose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT4G11010,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT4G11030,ath00071,Fatty acid degradation,organic-acids
+AT4G11150,ath00190,Oxidative phosphorylation,other
+AT4G11280,ath00270,Cysteine and methionine metabolism,amino acids
+AT4G11290,ath00360,Phenylalanine metabolism,amino acids
+AT4G11600,ath00590; ath00480,Arachidonic acid metabolism; Glutathione metabolism,organic-acids
+AT4G11640,ath00260,"Glycine, serine and threonine metabolism",other
+AT4G11820,ath00650; ath00072; ath00280,"Butanoate metabolism; Synthesis and degradation of ketone bodies; Valine, leucine and isoleucine degradation",organic-acids
+AT4G11840,ath00564; ath00565,Glycerophospholipid metabolism; Ether lipid metabolism,other
+AT4G11850,ath00564; ath00565,Glycerophospholipid metabolism; Ether lipid metabolism,other
+AT4G12110,ath00100,Steroid biosynthesis,other
+AT4G12250,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT4G12440,ath00230,Purine metabolism,other
+AT4G12800,ath00195,Photosynthesis,other
+AT4G13050,ath00061,Fatty acid biosynthesis,organic-acids
+AT4G13180,ath00061; ath01040,Fatty acid biosynthesis; Biosynthesis of unsaturated fatty acids,organic-acids
+AT4G13210,ath00040,Pentose and glucuronate interconversions,sugar
+AT4G13260,ath00380,Tryptophan metabolism,amino acids
+AT4G13360,ath00640; ath00650; ath00071; ath00280; ath00380; ath00410,"Propanoate metabolism; Butanoate metabolism; Fatty acid degradation; Valine, leucine and isoleucine degradation; Tryptophan metabolism; beta-Alanine metabolism",amino acids
+AT4G13430,ath00660,C5-Branched dibasic acid metabolism,organic-acids
+AT4G13610,ath00270,Cysteine and methionine metabolism,amino acids
+AT4G13660,ath00640,Propanoate metabolism,organic-acids
+AT4G13710,ath00040,Pentose and glucuronate interconversions,sugar
+AT4G13720,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT4G13780,ath00450,Selenocompound metabolism,other
+AT4G13890,ath00260; ath00460,"Glycine, serine and threonine metabolism; Cyanoamino acid metabolism",amino acids
+AT4G13930,ath00260; ath00460,"Glycine, serine and threonine metabolism; Cyanoamino acid metabolism",amino acids
+AT4G13940,ath00270,Cysteine and methionine metabolism,amino acids
+AT4G14070,ath00071,Fatty acid degradation,organic-acids
+AT4G14140,ath00270,Cysteine and methionine metabolism,amino acids
+AT4G14680,ath00920; ath00230; ath00450,Sulfur metabolism; Purine metabolism; Selenocompound metabolism,other
+AT4G14710,ath00270,Cysteine and methionine metabolism,amino acids
+AT4G14716,ath00270,Cysteine and methionine metabolism,amino acids
+AT4G14880,ath00920; ath00270,Sulfur metabolism; Cysteine and methionine metabolism,amino acids
+AT4G14890,ath00195,Photosynthesis,other
+AT4G14910,ath00340,Histidine metabolism,amino acids
+AT4G14930,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT4G15440,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT4G15530,ath00620; ath00710,Pyruvate metabolism; Carbon fixation in photosynthetic organisms,other
+AT4G16130,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT4G16155,ath00010; ath00620; ath00260; ath00280,"Glycolysis / Gluconeogenesis; Pyruvate metabolism; Glycine, serine and threonine metabolism; Valine, leucine and isoleucine degradation",amino acids
+AT4G16210,ath00640; ath00650; ath00071; ath00280; ath00380; ath00410,"Propanoate metabolism; Butanoate metabolism; Fatty acid degradation; Valine, leucine and isoleucine degradation; Tryptophan metabolism; beta-Alanine metabolism",amino acids
+AT4G16265,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT4G16270,ath00360,Phenylalanine metabolism,amino acids
+AT4G16700,ath00564,Glycerophospholipid metabolism,other
+AT4G16710,ath00510,N-Glycan biosynthesis,other
+AT4G16760,ath00071; ath00592; ath01040,Fatty acid degradation; alpha-Linolenic acid metabolism; Biosynthesis of unsaturated fatty acids,organic-acids
+AT4G16800,ath00280,"Valine, leucine and isoleucine degradation",amino acids
+AT4G17090,ath00500,Starch and sucrose metabolism,sugar
+AT4G17260,ath00010; ath00620; ath00640; ath00270,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Propanoate metabolism; Cysteine and methionine metabolism,amino acids
+AT4G17360,ath00630,Glyoxylate and dicarboxylate metabolism,organic-acids
+AT4G17470,ath00062,Fatty acid elongation,organic-acids
+AT4G17480,ath00062,Fatty acid elongation,organic-acids
+AT4G17483,ath00062,Fatty acid elongation,organic-acids
+AT4G17690,ath00360,Phenylalanine metabolism,amino acids
+AT4G17830,ath00330,Arginine and proline metabolism,amino acids
+AT4G18230,ath00510,N-Glycan biosynthesis,other
+AT4G18360,ath00630,Glyoxylate and dicarboxylate metabolism,organic-acids
+AT4G18440,ath00230; ath00250,"Purine metabolism; Alanine, aspartate and glutamate metabolism",amino acids
+AT4G19020,ath00270,Cysteine and methionine metabolism,amino acids
+AT4G19710,ath00260; ath00270; ath00300,"Glycine, serine and threonine metabolism; Cysteine and methionine metabolism; Lysine biosynthesis",amino acids
+AT4G19810,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT4G20320,ath00240,Pyrimidine metabolism,other
+AT4G20460,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT4G20930,ath00280,"Valine, leucine and isoleucine degradation",amino acids
+AT4G20960,ath00740,Riboflavin metabolism,other
+AT4G20990,ath00910,Nitrogen metabolism,other
+AT4G21000,ath00910,Nitrogen metabolism,other
+AT4G21280,ath00195,Photosynthesis,other
+AT4G21470,ath00740,Riboflavin metabolism,other
+AT4G21490,ath00190,Oxidative phosphorylation,other
+AT4G21710,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT4G21960,ath00360,Phenylalanine metabolism,amino acids
+AT4G22080,ath00040,Pentose and glucuronate interconversions,sugar
+AT4G22090,ath00040,Pentose and glucuronate interconversions,sugar
+AT4G22110,ath00010; ath00071; ath00350,Glycolysis / Gluconeogenesis; Fatty acid degradation; Tyrosine metabolism,amino acids
+AT4G22330,ath00600,Sphingolipid metabolism,other
+AT4G22570,ath00230,Purine metabolism,other
+AT4G22753,ath00100,Steroid biosynthesis,other
+AT4G22756,ath00100,Steroid biosynthesis,other
+AT4G22930,ath00240,Pyrimidine metabolism,other
+AT4G23100,ath00480,Glutathione metabolism,other
+AT4G23710,ath00190,Oxidative phosphorylation,other
+AT4G23730,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT4G23850,ath00071,Fatty acid degradation,organic-acids
+AT4G23900,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT4G23920,ath00052; ath00520,Galactose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT4G24040,ath00500,Starch and sucrose metabolism,sugar
+AT4G24620,ath00010; ath00030; ath00500; ath00520,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT4G24780,ath00040,Pentose and glucuronate interconversions,sugar
+AT4G24830,ath00250; ath00330,"Alanine, aspartate and glutamate metabolism; Arginine and proline metabolism",amino acids
+AT4G25000,ath00500,Starch and sucrose metabolism,sugar
+AT4G25180,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT4G25280,ath00240,Pyrimidine metabolism,other
+AT4G25950,ath00190,Oxidative phosphorylation,other
+AT4G25970,ath00564,Glycerophospholipid metabolism,other
+AT4G26010,ath00360,Phenylalanine metabolism,amino acids
+AT4G26200,ath00270,Cysteine and methionine metabolism,amino acids
+AT4G26210,ath00190,Oxidative phosphorylation,other
+AT4G26260,ath00053; ath00562,Ascorbate and aldarate metabolism; Inositol phosphate metabolism,alcohol-sugars
+AT4G26270,ath00010; ath00030; ath00051; ath00052,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Galactose metabolism,sugar
+AT4G26390,ath00010; ath00620; ath00710; ath00230,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Carbon fixation in photosynthetic organisms; Purine metabolism,sugar
+AT4G26510,ath00240,Pyrimidine metabolism,other
+AT4G26520,ath00010; ath00030; ath00051; ath00710,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Carbon fixation in photosynthetic organisms,sugar
+AT4G26530,ath00010; ath00030; ath00051; ath00710,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Carbon fixation in photosynthetic organisms,sugar
+AT4G26710,ath00190,Oxidative phosphorylation,other
+AT4G26770,ath00564,Glycerophospholipid metabolism,other
+AT4G26850,ath00053,Ascorbate and aldarate metabolism,acid-sugars
+AT4G26900,ath00340,Histidine metabolism,amino acids
+AT4G26970,ath00630,Glyoxylate and dicarboxylate metabolism,organic-acids
+AT4G27070,ath00260,"Glycine, serine and threonine metabolism",other
+AT4G27550,ath00500,Starch and sucrose metabolism,sugar
+AT4G28060,ath00190,Oxidative phosphorylation,other
+AT4G28220,ath00190,Oxidative phosphorylation,other
+AT4G28660,ath00195,Photosynthesis,other
+AT4G28680,ath00350,Tyrosine metabolism,amino acids
+AT4G28750,ath00195,Photosynthesis,other
+AT4G29010,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT4G29130,ath00010; ath00051; ath00052; ath00500; ath00520,Glycolysis / Gluconeogenesis; Fructose and mannose metabolism; Galactose metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT4G29210,ath00590; ath00430; ath00460; ath00480,Arachidonic acid metabolism; Taurine and hypotaurine metabolism; Cyanoamino acid metabolism; Glutathione metabolism,amino acids
+AT4G29220,ath00010; ath00030; ath00051; ath00052,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Galactose metabolism,sugar
+AT4G29480,ath00190,Oxidative phosphorylation,other
+AT4G29840,ath00260; ath00750,"Glycine, serine and threonine metabolism; Vitamin B6 metabolism",other
+AT4G30170,ath00360,Phenylalanine metabolism,amino acids
+AT4G30190,ath00190,Oxidative phosphorylation,other
+AT4G30440,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT4G30580,ath00561; ath00564,Glycerolipid metabolism; Glycerophospholipid metabolism,other
+AT4G30910,ath00480,Glutathione metabolism,other
+AT4G30920,ath00480,Glutathione metabolism,other
+AT4G30950,ath01040,Biosynthesis of unsaturated fatty acids,organic-acids
+AT4G31500,ath00380,Tryptophan metabolism,amino acids
+AT4G31760,ath00360,Phenylalanine metabolism,amino acids
+AT4G31780,ath00561,Glycerolipid metabolism,other
+AT4G31810,ath00640; ath00280; ath00410,"Propanoate metabolism; Valine, leucine and isoleucine degradation; beta-Alanine metabolism",amino acids
+AT4G31870,ath00590; ath00480,Arachidonic acid metabolism; Glutathione metabolism,organic-acids
+AT4G31990,ath00710; ath00250; ath00270; ath00330; ath00350; ath00360,"Carbon fixation in photosynthetic organisms; Alanine, aspartate and glutamate metabolism; Cysteine and methionine metabolism; Arginine and proline metabolism; Tyrosine metabolism; Phenylalanine metabolism",amino acids
+AT4G32260,ath00190; ath00195,Oxidative phosphorylation; Photosynthesis,other
+AT4G32320,ath00053; ath00480,Ascorbate and aldarate metabolism; Glutathione metabolism,acid-sugars
+AT4G32470,ath00190,Oxidative phosphorylation,other
+AT4G32520,ath00260; ath00460,"Glycine, serine and threonine metabolism; Cyanoamino acid metabolism",amino acids
+AT4G32530,ath00190,Oxidative phosphorylation,other
+AT4G32540,ath00380,Tryptophan metabolism,amino acids
+AT4G32840,ath00010; ath00030; ath00051; ath00052,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Galactose metabolism,sugar
+AT4G33010,ath00260,"Glycine, serine and threonine metabolism",other
+AT4G33030,ath00520; ath00561,Amino sugar and nucleotide sugar metabolism; Glycerolipid metabolism,sugar
+AT4G33070,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT4G33220,ath00040; ath00500,Pentose and glucuronate interconversions; Starch and sucrose metabolism,sugar
+AT4G33240,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT4G33420,ath00360,Phenylalanine metabolism,amino acids
+AT4G33580,ath00910,Nitrogen metabolism,other
+AT4G33670,ath00053,Ascorbate and aldarate metabolism,acid-sugars
+AT4G33680,ath00300,Lysine biosynthesis,amino acids
+AT4G33770,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT4G33910,ath00330,Arginine and proline metabolism,amino acids
+AT4G34030,ath00280,"Valine, leucine and isoleucine degradation",amino acids
+AT4G34050,ath00360,Phenylalanine metabolism,amino acids
+AT4G34200,ath00260,"Glycine, serine and threonine metabolism",other
+AT4G34240,ath00010; ath00040; ath00053; ath00620; ath00640; ath00071; ath00561; ath00280; ath00330; ath00340; ath00380; ath00410,"Glycolysis / Gluconeogenesis; Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism; Pyruvate metabolism; Propanoate metabolism; Fatty acid degradation; Glycerolipid metabolism; Valine, leucine and isoleucine degradation; Arginine and proline metabolism; Histidine metabolism; Tryptophan metabolism; beta-Alanine metabolism",amino acids
+AT4G34570,ath00240,Pyrimidine metabolism,other
+AT4G34640,ath00100,Steroid biosynthesis,other
+AT4G34650,ath00100,Steroid biosynthesis,other
+AT4G34700,ath00190,Oxidative phosphorylation,other
+AT4G34710,ath00330,Arginine and proline metabolism,amino acids
+AT4G34720,ath00190,Oxidative phosphorylation,other
+AT4G34740,ath00230; ath00250,"Purine metabolism; Alanine, aspartate and glutamate metabolism",amino acids
+AT4G34840,ath00270,Cysteine and methionine metabolism,amino acids
+AT4G34890,ath00230,Purine metabolism,other
+AT4G34900,ath00230,Purine metabolism,other
+AT4G35000,ath00053; ath00480,Ascorbate and aldarate metabolism; Glutathione metabolism,acid-sugars
+AT4G35090,ath00380,Tryptophan metabolism,amino acids
+AT4G35460,ath00240; ath00450,Pyrimidine metabolism; Selenocompound metabolism,other
+AT4G35530,ath00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,alcohol-sugars
+AT4G35630,ath00260; ath00750,"Glycine, serine and threonine metabolism; Vitamin B6 metabolism",other
+AT4G35640,ath00920; ath00270,Sulfur metabolism; Cysteine and methionine metabolism,amino acids
+AT4G35800,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT4G35810,ath00330,Arginine and proline metabolism,amino acids
+AT4G35820,ath00330,Arginine and proline metabolism,amino acids
+AT4G35830,ath00630,Glyoxylate and dicarboxylate metabolism,organic-acids
+AT4G35970,ath00053; ath00480,Ascorbate and aldarate metabolism; Glutathione metabolism,acid-sugars
+AT4G36250,ath00010; ath00040; ath00053; ath00620; ath00640; ath00071; ath00561; ath00280; ath00330; ath00340; ath00380; ath00410,"Glycolysis / Gluconeogenesis; Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism; Pyruvate metabolism; Propanoate metabolism; Fatty acid degradation; Glycerolipid metabolism; Valine, leucine and isoleucine degradation; Arginine and proline metabolism; Histidine metabolism; Tryptophan metabolism; beta-Alanine metabolism",amino acids
+AT4G36430,ath00360,Phenylalanine metabolism,amino acids
+AT4G36480,ath00600,Sphingolipid metabolism,other
+AT4G37520,ath00360,Phenylalanine metabolism,amino acids
+AT4G37530,ath00360,Phenylalanine metabolism,amino acids
+AT4G37550,ath00630; ath00910,Glyoxylate and dicarboxylate metabolism; Nitrogen metabolism,organic-acids
+AT4G37560,ath00630; ath00910,Glyoxylate and dicarboxylate metabolism; Nitrogen metabolism,organic-acids
+AT4G37670,ath00330,Arginine and proline metabolism,amino acids
+AT4G37760,ath00100,Steroid biosynthesis,other
+AT4G37770,ath00270,Cysteine and methionine metabolism,amino acids
+AT4G37830,ath00190,Oxidative phosphorylation,other
+AT4G37840,ath00010; ath00051; ath00052; ath00500; ath00520,Glycolysis / Gluconeogenesis; Fructose and mannose metabolism; Galactose metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT4G37870,ath00010; ath00620; ath00710,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Carbon fixation in photosynthetic organisms,sugar
+AT4G37930,ath00260; ath00460,"Glycine, serine and threonine metabolism; Cyanoamino acid metabolism",amino acids
+AT4G38220,ath00330,Arginine and proline metabolism,amino acids
+AT4G38240,ath00510,N-Glycan biosynthesis,other
+AT4G38270,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT4G38510,ath00190,Oxidative phosphorylation,other
+AT4G38530,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT4G38570,ath00562; ath00564,Inositol phosphate metabolism; Glycerophospholipid metabolism,alcohol-sugars
+AT4G38800,ath00270,Cysteine and methionine metabolism,amino acids
+AT4G38880,ath00230; ath00250,"Purine metabolism; Alanine, aspartate and glutamate metabolism",amino acids
+AT4G38920,ath00190,Oxidative phosphorylation,other
+AT4G38970,ath00010; ath00030; ath00051; ath00710,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Carbon fixation in photosynthetic organisms,sugar
+AT4G39000,ath00500,Starch and sucrose metabolism,sugar
+AT4G39010,ath00500,Starch and sucrose metabolism,sugar
+AT4G39080,ath00190,Oxidative phosphorylation,other
+AT4G39210,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT4G39640,ath00590; ath00430; ath00460; ath00480,Arachidonic acid metabolism; Taurine and hypotaurine metabolism; Cyanoamino acid metabolism; Glutathione metabolism,amino acids
+AT4G39650,ath00590; ath00430; ath00460; ath00480,Arachidonic acid metabolism; Taurine and hypotaurine metabolism; Cyanoamino acid metabolism; Glutathione metabolism,amino acids
+AT4G39660,ath00250; ath00260,"Alanine, aspartate and glutamate metabolism; Glycine, serine and threonine metabolism",amino acids
+AT4G39800,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT4G39940,ath00920; ath00230,Sulfur metabolism; Purine metabolism,other
+AT4G39950,ath00380,Tryptophan metabolism,amino acids
+AT5G01220,ath00561,Glycerolipid metabolism,other
+AT5G01320,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT5G01330,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT5G01410,ath00750,Vitamin B6 metabolism,other
+AT5G01530,ath00196,Photosynthesis – antenna proteins,other
+AT5G02410,ath00510,N-Glycan biosynthesis,other
+AT5G03080,ath00510,N-Glycan biosynthesis,other
+AT5G03300,ath00230,Purine metabolism,other
+AT5G03370,ath00620,Pyruvate metabolism,other
+AT5G03630,ath00053,Ascorbate and aldarate metabolism,acid-sugars
+AT5G03650,ath00500,Starch and sucrose metabolism,sugar
+AT5G03690,ath00010; ath00030; ath00051; ath00710,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Carbon fixation in photosynthetic organisms,sugar
+AT5G03860,ath00620; ath00630,Pyruvate metabolism; Glyoxylate and dicarboxylate metabolism,organic-acids
+AT5G04120,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT5G04140,ath00910,Nitrogen metabolism,other
+AT5G04180,ath00910,Nitrogen metabolism,other
+AT5G04230,ath00910; ath00360,Nitrogen metabolism; Phenylalanine metabolism,amino acids
+AT5G04310,ath00040,Pentose and glucuronate interconversions,sugar
+AT5G04590,ath00920,Sulfur metabolism,other
+AT5G04970,ath00040; ath00500,Pentose and glucuronate interconversions; Starch and sucrose metabolism,sugar
+AT5G05340,ath00360,Phenylalanine metabolism,amino acids
+AT5G05460,ath00511,Other glycan degradation,other
+AT5G05580,ath01040,Biosynthesis of unsaturated fatty acids,organic-acids
+AT5G06090,ath00561; ath00564,Glycerolipid metabolism; Glycerophospholipid metabolism,other
+AT5G06580,ath00620,Pyruvate metabolism,other
+AT5G06720,ath00360,Phenylalanine metabolism,amino acids
+AT5G06730,ath00360,Phenylalanine metabolism,amino acids
+AT5G07440,ath00910; ath00250; ath00330,"Nitrogen metabolism; Alanine, aspartate and glutamate metabolism; Arginine and proline metabolism",amino acids
+AT5G07630,ath00510,N-Glycan biosynthesis,other
+AT5G07920,ath00561; ath00564,Glycerolipid metabolism; Glycerophospholipid metabolism,other
+AT5G08030,ath00564,Glycerophospholipid metabolism,other
+AT5G08170,ath00330,Arginine and proline metabolism,amino acids
+AT5G08300,ath00640,Propanoate metabolism,organic-acids
+AT5G08370,ath00052; ath00561; ath00600; ath00603,Galactose metabolism; Glycerolipid metabolism; Sphingolipid metabolism; Glycosphingolipid biosynthesis – globo series,sugar
+AT5G08380,ath00052; ath00561; ath00600; ath00603,Galactose metabolism; Glycerolipid metabolism; Sphingolipid metabolism; Glycosphingolipid biosynthesis – globo series,sugar
+AT5G08530,ath00190,Oxidative phosphorylation,other
+AT5G08570,ath00010; ath00620; ath00710; ath00230,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Carbon fixation in photosynthetic organisms; Purine metabolism,sugar
+AT5G08670,ath00190,Oxidative phosphorylation,other
+AT5G08680,ath00190,Oxidative phosphorylation,other
+AT5G08690,ath00190,Oxidative phosphorylation,other
+AT5G09280,ath00040,Pentose and glucuronate interconversions,sugar
+AT5G09290,ath00562; ath00920,Inositol phosphate metabolism; Sulfur metabolism,alcohol-sugars
+AT5G09300,ath00280,"Valine, leucine and isoleucine degradation",amino acids
+AT5G09350,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT5G09650,ath00190,Oxidative phosphorylation,other
+AT5G09660,ath00620; ath00630; ath00710,Pyruvate metabolism; Glyoxylate and dicarboxylate metabolism; Carbon fixation in photosynthetic organisms,organic-acids
+AT5G09920,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT5G10000,ath00195,Photosynthesis,other
+AT5G10050,ath00564; ath00565,Glycerophospholipid metabolism; Ether lipid metabolism,other
+AT5G10160,ath00061,Fatty acid biosynthesis,organic-acids
+AT5G10170,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT5G10240,ath00910; ath00250,"Nitrogen metabolism; Alanine, aspartate and glutamate metabolism",amino acids
+AT5G10330,ath00340; ath00350; ath00360,Histidine metabolism; Tyrosine metabolism; Phenylalanine metabolism,amino acids
+AT5G10480,ath01040,Biosynthesis of unsaturated fatty acids,organic-acids
+AT5G10920,ath00250; ath00330,"Alanine, aspartate and glutamate metabolism; Arginine and proline metabolism",amino acids
+AT5G11160,ath00230,Purine metabolism,other
+AT5G11320,ath00380,Tryptophan metabolism,amino acids
+AT5G11520,ath00710; ath00250; ath00270; ath00330; ath00350; ath00360,"Carbon fixation in photosynthetic organisms; Alanine, aspartate and glutamate metabolism; Cysteine and methionine metabolism; Arginine and proline metabolism; Tyrosine metabolism; Phenylalanine metabolism",amino acids
+AT5G11670,ath00620; ath00710,Pyruvate metabolism; Carbon fixation in photosynthetic organisms,other
+AT5G11720,ath00052; ath00500,Galactose metabolism; Starch and sucrose metabolism,sugar
+AT5G11770,ath00190,Oxidative phosphorylation,other
+AT5G11880,ath00300,Lysine biosynthesis,amino acids
+AT5G12040,ath00250,"Alanine, aspartate and glutamate metabolism",amino acids
+AT5G12200,ath00240; ath00410,Pyrimidine metabolism; beta-Alanine metabolism,amino acids
+AT5G13110,ath00030; ath00480,Pentose phosphate pathway; Glutathione metabolism,sugar
+AT5G13280,ath00260; ath00270; ath00300,"Glycine, serine and threonine metabolism; Cysteine and methionine metabolism; Lysine biosynthesis",amino acids
+AT5G13420,ath00030,Pentose phosphate pathway,sugar
+AT5G13430,ath00190,Oxidative phosphorylation,other
+AT5G13440,ath00190,Oxidative phosphorylation,other
+AT5G13450,ath00190,Oxidative phosphorylation,other
+AT5G13520,ath00590,Arachidonic acid metabolism,organic-acids
+AT5G13690,ath00531,Glycosaminoglycan degradation,other
+AT5G13710,ath00100,Steroid biosynthesis,other
+AT5G14060,ath00260; ath00270; ath00300,"Glycine, serine and threonine metabolism; Cysteine and methionine metabolism; Lysine biosynthesis",amino acids
+AT5G14130,ath00360,Phenylalanine metabolism,amino acids
+AT5G14480,ath00510,N-Glycan biosynthesis,other
+AT5G14580,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT5G14590,ath00480,Glutathione metabolism,other
+AT5G14650,ath00040; ath00500,Pentose and glucuronate interconversions; Starch and sucrose metabolism,sugar
+AT5G14740,ath00910,Nitrogen metabolism,other
+AT5G14760,ath00250,"Alanine, aspartate and glutamate metabolism",amino acids
+AT5G14780,ath00630,Glyoxylate and dicarboxylate metabolism,organic-acids
+AT5G14800,ath00330,Arginine and proline metabolism,amino acids
+AT5G14850,ath00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,alcohol-sugars
+AT5G14950,ath00510,N-Glycan biosynthesis,other
+AT5G15110,ath00040,Pentose and glucuronate interconversions,sugar
+AT5G15120,ath00430,Taurine and hypotaurine metabolism,other
+AT5G15140,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT5G15180,ath00360,Phenylalanine metabolism,amino acids
+AT5G15470,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT5G15490,ath00040; ath00053; ath00500; ath00520,Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT5G15530,ath00620; ath00640; ath00061,Pyruvate metabolism; Propanoate metabolism; Fatty acid biosynthesis,organic-acids
+AT5G15770,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT5G15950,ath00270; ath00330,Cysteine and methionine metabolism; Arginine and proline metabolism,amino acids
+AT5G16230,ath00061; ath01040,Fatty acid biosynthesis; Biosynthesis of unsaturated fatty acids,organic-acids
+AT5G16240,ath00061; ath01040,Fatty acid biosynthesis; Biosynthesis of unsaturated fatty acids,organic-acids
+AT5G16390,ath00620; ath00640; ath00061,Pyruvate metabolism; Propanoate metabolism; Fatty acid biosynthesis,organic-acids
+AT5G16570,ath00910; ath00250; ath00330,"Nitrogen metabolism; Alanine, aspartate and glutamate metabolism; Arginine and proline metabolism",amino acids
+AT5G16760,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT5G17200,ath00040; ath00500,Pentose and glucuronate interconversions; Starch and sucrose metabolism,sugar
+AT5G17220,ath00480,Glutathione metabolism,other
+AT5G17310,ath00040; ath00052; ath00500; ath00520,Pentose and glucuronate interconversions; Galactose metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT5G17330,ath00650; ath00250; ath00410; ath00430,"Butanoate metabolism; Alanine, aspartate and glutamate metabolism; beta-Alanine metabolism; Taurine and hypotaurine metabolism",amino acids
+AT5G17770,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT5G17820,ath00360,Phenylalanine metabolism,amino acids
+AT5G17920,ath00270; ath00450,Cysteine and methionine metabolism; Selenocompound metabolism,amino acids
+AT5G18070,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT5G18170,ath00910; ath00250; ath00330,"Nitrogen metabolism; Alanine, aspartate and glutamate metabolism; Arginine and proline metabolism",amino acids
+AT5G18200,ath00052; ath00520,Galactose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT5G18280,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT5G18800,ath00190,Oxidative phosphorylation,other
+AT5G18900,ath00330,Arginine and proline metabolism,amino acids
+AT5G18930,ath00270; ath00330,Cysteine and methionine metabolism; Arginine and proline metabolism,amino acids
+AT5G19130,ath00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,alcohol-sugars
+AT5G19220,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT5G19530,ath00270; ath00330; ath00410; ath00480,Cysteine and methionine metabolism; Arginine and proline metabolism; beta-Alanine metabolism; Glutathione metabolism,amino acids
+AT5G19550,ath00710; ath00250; ath00270; ath00330; ath00350; ath00360,"Carbon fixation in photosynthetic organisms; Alanine, aspartate and glutamate metabolism; Cysteine and methionine metabolism; Arginine and proline metabolism; Tyrosine metabolism; Phenylalanine metabolism",amino acids
+AT5G19690,ath00510,N-Glycan biosynthesis,other
+AT5G19730,ath00040; ath00500,Pentose and glucuronate interconversions; Starch and sucrose metabolism,sugar
+AT5G19880,ath00360,Phenylalanine metabolism,amino acids
+AT5G19890,ath00360,Phenylalanine metabolism,amino acids
+AT5G20080,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT5G20280,ath00500,Starch and sucrose metabolism,sugar
+AT5G20410,ath00561,Glycerolipid metabolism,other
+AT5G20830,ath00500,Starch and sucrose metabolism,sugar
+AT5G20960,ath00380,Tryptophan metabolism,amino acids
+AT5G20980,ath00270; ath00450,Cysteine and methionine metabolism; Selenocompound metabolism,amino acids
+AT5G21100,ath00053,Ascorbate and aldarate metabolism,acid-sugars
+AT5G22110,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT5G22130,ath00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,alcohol-sugars
+AT5G22300,ath00460,Cyanoamino acid metabolism,amino acids
+AT5G22410,ath00360,Phenylalanine metabolism,amino acids
+AT5G23010,ath00620,Pyruvate metabolism,other
+AT5G23020,ath00620,Pyruvate metabolism,other
+AT5G23070,ath00240,Pyrimidine metabolism,other
+AT5G23250,ath00640,Propanoate metabolism,organic-acids
+AT5G23300,ath00240,Pyrimidine metabolism,other
+AT5G23670,ath00600,Sphingolipid metabolism,other
+AT5G23710,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT5G24070,ath00360,Phenylalanine metabolism,amino acids
+AT5G24090,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT5G24140,ath00100,Steroid biosynthesis,other
+AT5G24150,ath00100,Steroid biosynthesis,other
+AT5G24160,ath00100,Steroid biosynthesis,other
+AT5G24300,ath00500,Starch and sucrose metabolism,sugar
+AT5G24400,ath00030,Pentose phosphate pathway,sugar
+AT5G24410,ath00030,Pentose phosphate pathway,sugar
+AT5G24420,ath00030,Pentose phosphate pathway,sugar
+AT5G24760,ath00010; ath00071; ath00350,Glycolysis / Gluconeogenesis; Fatty acid degradation; Tyrosine metabolism,amino acids
+AT5G25370,ath00564; ath00565,Glycerophospholipid metabolism; Ether lipid metabolism,other
+AT5G25450,ath00190,Oxidative phosphorylation,other
+AT5G25480,ath00270,Cysteine and methionine metabolism,amino acids
+AT5G25620,ath00380,Tryptophan metabolism,amino acids
+AT5G25880,ath00620; ath00710,Pyruvate metabolism; Carbon fixation in photosynthetic organisms,other
+AT5G26667,ath00240,Pyrimidine metabolism,other
+AT5G26780,ath00260; ath00460,"Glycine, serine and threonine metabolism; Cyanoamino acid metabolism",amino acids
+AT5G27380,ath00480,Glutathione metabolism,other
+AT5G27600,ath00071,Fatty acid degradation,organic-acids
+AT5G27730,ath00531,Glycosaminoglycan degradation,other
+AT5G28020,ath00920; ath00270,Sulfur metabolism; Cysteine and methionine metabolism,amino acids
+AT5G28030,ath00920; ath00270,Sulfur metabolism; Cysteine and methionine metabolism,amino acids
+AT5G28237,ath00260,"Glycine, serine and threonine metabolism",other
+AT5G28450,ath00196,Photosynthesis – antenna proteins,other
+AT5G28840,ath00053; ath00520,Ascorbate and aldarate metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT5G34780,ath00280,"Valine, leucine and isoleucine degradation",amino acids
+AT5G35170,ath00230,Purine metabolism,other
+AT5G35360,ath00620; ath00640; ath00061,Pyruvate metabolism; Propanoate metabolism; Fatty acid biosynthesis,organic-acids
+AT5G35630,ath00910; ath00250; ath00330,"Nitrogen metabolism; Alanine, aspartate and glutamate metabolism; Arginine and proline metabolism",amino acids
+AT5G35790,ath00030; ath00480,Pentose phosphate pathway; Glutathione metabolism,sugar
+AT5G36160,ath00270; ath00350; ath00360,Cysteine and methionine metabolism; Tyrosine metabolism; Phenylalanine metabolism,amino acids
+AT5G36880,ath00010; ath00620; ath00640,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Propanoate metabolism,sugar
+AT5G37510,ath00190,Oxidative phosphorylation,other
+AT5G37600,ath00910; ath00250; ath00330,"Nitrogen metabolism; Alanine, aspartate and glutamate metabolism; Arginine and proline metabolism",amino acids
+AT5G37830,ath00480,Glutathione metabolism,other
+AT5G37850,ath00750,Vitamin B6 metabolism,other
+AT5G38410,ath00630; ath00710,Glyoxylate and dicarboxylate metabolism; Carbon fixation in photosynthetic organisms,organic-acids
+AT5G38420,ath00630; ath00710,Glyoxylate and dicarboxylate metabolism; Carbon fixation in photosynthetic organisms,organic-acids
+AT5G38430,ath00630; ath00710,Glyoxylate and dicarboxylate metabolism; Carbon fixation in photosynthetic organisms,organic-acids
+AT5G38460,ath00510,N-Glycan biosynthesis,other
+AT5G38530,ath00260,"Glycine, serine and threonine metabolism",other
+AT5G38710,ath00330,Arginine and proline metabolism,amino acids
+AT5G39320,ath00040; ath00053; ath00500; ath00520,Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT5G39400,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT5G40150,ath00360,Phenylalanine metabolism,amino acids
+AT5G40610,ath00564,Glycerophospholipid metabolism,other
+AT5G40650,ath00190,Oxidative phosphorylation,other
+AT5G40760,ath00030; ath00480,Pentose phosphate pathway; Glutathione metabolism,sugar
+AT5G40810,ath00190,Oxidative phosphorylation,other
+AT5G40870,ath00240,Pyrimidine metabolism,other
+AT5G41010,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT5G41670,ath00030; ath00480,Pentose phosphate pathway; Glutathione metabolism,sugar
+AT5G41880,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT5G42180,ath00360,Phenylalanine metabolism,amino acids
+AT5G42250,ath00010; ath00071; ath00350,Glycolysis / Gluconeogenesis; Fatty acid degradation; Tyrosine metabolism,amino acids
+AT5G42260,ath00500; ath00460,Starch and sucrose metabolism; Cyanoamino acid metabolism,amino acids
+AT5G42650,ath00592,alpha-Linolenic acid metabolism,organic-acids
+AT5G42740,ath00010; ath00030; ath00500; ath00520,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT5G43330,ath00620; ath00630; ath00710,Pyruvate metabolism; Glyoxylate and dicarboxylate metabolism; Carbon fixation in photosynthetic organisms,organic-acids
+AT5G43780,ath00920; ath00230; ath00450,Sulfur metabolism; Purine metabolism; Selenocompound metabolism,other
+AT5G43890,ath00380,Tryptophan metabolism,amino acids
+AT5G43940,ath00010; ath00071; ath00350,Glycolysis / Gluconeogenesis; Fatty acid degradation; Tyrosine metabolism,amino acids
+AT5G44480,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT5G44520,ath00030; ath00710,Pentose phosphate pathway; Carbon fixation in photosynthetic organisms,sugar
+AT5G44640,ath00500; ath00460,Starch and sucrose metabolism; Cyanoamino acid metabolism,amino acids
+AT5G45040,ath00195,Photosynthesis,other
+AT5G45140,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT5G46180,ath00330,Arginine and proline metabolism,amino acids
+AT5G46850,ath00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,alcohol-sugars
+AT5G47000,ath00360,Phenylalanine metabolism,amino acids
+AT5G47030,ath00190,Oxidative phosphorylation,other
+AT5G47330,ath00062,Fatty acid elongation,organic-acids
+AT5G47340,ath00062,Fatty acid elongation,organic-acids
+AT5G47435,ath00630,Glyoxylate and dicarboxylate metabolism,organic-acids
+AT5G47720,ath00620; ath00630; ath00640; ath00650; ath00071; ath00072; ath00280; ath00380,"Pyruvate metabolism; Glyoxylate and dicarboxylate metabolism; Propanoate metabolism; Butanoate metabolism; Fatty acid degradation; Synthesis and degradation of ketone bodies; Valine, leucine and isoleucine degradation; Tryptophan metabolism",organic-acids
+AT5G47780,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT5G47810,ath00010; ath00030; ath00051; ath00052,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Galactose metabolism,sugar
+AT5G47840,ath00230,Purine metabolism,other
+AT5G47890,ath00190,Oxidative phosphorylation,other
+AT5G48230,ath00620; ath00630; ath00640; ath00650; ath00071; ath00072; ath00280; ath00380,"Pyruvate metabolism; Glyoxylate and dicarboxylate metabolism; Propanoate metabolism; Butanoate metabolism; Fatty acid degradation; Synthesis and degradation of ketone bodies; Valine, leucine and isoleucine degradation; Tryptophan metabolism",organic-acids
+AT5G48300,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT5G48840,ath00410,beta-Alanine metabolism,amino acids
+AT5G48880,ath00071; ath01040; ath00280,"Fatty acid degradation; Biosynthesis of unsaturated fatty acids; Valine, leucine and isoleucine degradation",organic-acids
+AT5G48900,ath00040,Pentose and glucuronate interconversions,sugar
+AT5G49160,ath00270,Cysteine and methionine metabolism,amino acids
+AT5G49180,ath00040; ath00500,Pentose and glucuronate interconversions; Starch and sucrose metabolism,sugar
+AT5G49190,ath00500,Starch and sucrose metabolism,sugar
+AT5G49650,ath00040,Pentose and glucuronate interconversions,sugar
+AT5G49810,ath00450,Selenocompound metabolism,other
+AT5G50370,ath00230,Purine metabolism,other
+AT5G50375,ath00100,Steroid biosynthesis,other
+AT5G50420,ath00514,O-Glycan biosynthesis,other
+AT5G50850,ath00010; ath00620; ath00650,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Butanoate metabolism,sugar
+AT5G51820,ath00010; ath00030; ath00052; ath00500; ath00520; ath00230,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Galactose metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism; Purine metabolism,sugar
+AT5G51830,ath00051; ath00500; ath00520,Fructose and mannose metabolism; Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT5G51890,ath00360,Phenylalanine metabolism,amino acids
+AT5G51940,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT5G51970,ath00051,Fructose and mannose metabolism,sugar
+AT5G52100,ath00300,Lysine biosynthesis,amino acids
+AT5G52560,ath00520,Amino sugar and nucleotide sugar metabolism,sugar
+AT5G52840,ath00190,Oxidative phosphorylation,other
+AT5G52920,ath00010; ath00620; ath00710; ath00230,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Carbon fixation in photosynthetic organisms; Purine metabolism,sugar
+AT5G53120,ath00270; ath00330; ath00410; ath00480,Cysteine and methionine metabolism; Arginine and proline metabolism; beta-Alanine metabolism; Glutathione metabolism,amino acids
+AT5G53460,ath00910; ath00250,"Nitrogen metabolism; Alanine, aspartate and glutamate metabolism",amino acids
+AT5G53850,ath00270,Cysteine and methionine metabolism,amino acids
+AT5G53970,ath00270; ath00350; ath00360,Cysteine and methionine metabolism; Tyrosine metabolism; Phenylalanine metabolism,amino acids
+AT5G54270,ath00196,Photosynthesis – antenna proteins,other
+AT5G54390,ath00920,Sulfur metabolism,other
+AT5G54690,ath00500; ath00520,Starch and sucrose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT5G54810,ath00260,"Glycine, serine and threonine metabolism",other
+AT5G54960,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT5G55120,ath00053,Ascorbate and aldarate metabolism,acid-sugars
+AT5G55290,ath00190,Oxidative phosphorylation,other
+AT5G55720,ath00040,Pentose and glucuronate interconversions,sugar
+AT5G56090,ath00190,Oxidative phosphorylation,other
+AT5G56350,ath00010; ath00620; ath00710; ath00230,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Carbon fixation in photosynthetic organisms; Purine metabolism,sugar
+AT5G56630,ath00010; ath00030; ath00051; ath00052,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Galactose metabolism,sugar
+AT5G56640,ath00053; ath00562,Ascorbate and aldarate metabolism; Inositol phosphate metabolism,alcohol-sugars
+AT5G56720,ath00620; ath00630; ath00710,Pyruvate metabolism; Glyoxylate and dicarboxylate metabolism; Carbon fixation in photosynthetic organisms,organic-acids
+AT5G56760,ath00920; ath00270,Sulfur metabolism; Cysteine and methionine metabolism,amino acids
+AT5G57330,ath00010,Glycolysis / Gluconeogenesis,sugar
+AT5G57350,ath00190,Oxidative phosphorylation,other
+AT5G57655,ath00040; ath00051,Pentose and glucuronate interconversions; Fructose and mannose metabolism,sugar
+AT5G57815,ath00190,Oxidative phosphorylation,other
+AT5G57850,ath00280,"Valine, leucine and isoleucine degradation",amino acids
+AT5G58220,ath00230,Purine metabolism,other
+AT5G58240,ath00230,Purine metabolism,other
+AT5G58390,ath00360,Phenylalanine metabolism,amino acids
+AT5G58400,ath00360,Phenylalanine metabolism,amino acids
+AT5G58670,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT5G58690,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT5G58700,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT5G59180,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT5G59440,ath00240,Pyrimidine metabolism,other
+AT5G59750,ath00740,Riboflavin metabolism,other
+AT5G60040,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT5G60540,ath00750,Vitamin B6 metabolism,other
+AT5G60620,ath00561; ath00564,Glycerolipid metabolism; Glycerophospholipid metabolism,other
+AT5G61410,ath00030; ath00040; ath00710,Pentose phosphate pathway; Pentose and glucuronate interconversions; Carbon fixation in photosynthetic organisms,sugar
+AT5G61540,ath00511,Other glycan degradation,other
+AT5G61580,ath00010; ath00030; ath00051; ath00052,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Galactose metabolism,sugar
+AT5G62530,ath00250; ath00330,"Alanine, aspartate and glutamate metabolism; Arginine and proline metabolism",amino acids
+AT5G62670,ath00190,Oxidative phosphorylation,other
+AT5G63180,ath00040,Pentose and glucuronate interconversions,sugar
+AT5G63310,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT5G63400,ath00230,Purine metabolism,other
+AT5G63680,ath00010; ath00620; ath00710; ath00230,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Carbon fixation in photosynthetic organisms; Purine metabolism,sugar
+AT5G63770,ath00561; ath00564,Glycerolipid metabolism; Glycerophospholipid metabolism,other
+AT5G63840,ath00510,N-Glycan biosynthesis,other
+AT5G63890,ath00340,Histidine metabolism,amino acids
+AT5G63960,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT5G63980,ath00562; ath00920,Inositol phosphate metabolism; Sulfur metabolism,alcohol-sugars
+AT5G63990,ath00562; ath00920,Inositol phosphate metabolism; Sulfur metabolism,alcohol-sugars
+AT5G64000,ath00562; ath00920,Inositol phosphate metabolism; Sulfur metabolism,alcohol-sugars
+AT5G64040,ath00195,Photosynthesis,other
+AT5G64070,ath00562,Inositol phosphate metabolism,alcohol-sugars
+AT5G64100,ath00360,Phenylalanine metabolism,amino acids
+AT5G64110,ath00360,Phenylalanine metabolism,amino acids
+AT5G64120,ath00360,Phenylalanine metabolism,amino acids
+AT5G64300,ath00740,Riboflavin metabolism,other
+AT5G64370,ath00240; ath00410,Pyrimidine metabolism; beta-Alanine metabolism,amino acids
+AT5G64380,ath00010; ath00030; ath00051; ath00710,Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Carbon fixation in photosynthetic organisms,sugar
+AT5G64860,ath00500,Starch and sucrose metabolism,sugar
+AT5G65010,ath00910; ath00250,"Nitrogen metabolism; Alanine, aspartate and glutamate metabolism",amino acids
+AT5G65110,ath00071; ath00592; ath01040,Fatty acid degradation; alpha-Linolenic acid metabolism; Biosynthesis of unsaturated fatty acids,organic-acids
+AT5G65165,ath00190,Oxidative phosphorylation,other
+AT5G65690,ath00010; ath00620; ath00710,Glycolysis / Gluconeogenesis; Pyruvate metabolism; Carbon fixation in photosynthetic organisms,sugar
+AT5G65720,ath00730,Thiamine metabolism,other
+AT5G65750,ath00380,Tryptophan metabolism,amino acids
+AT5G65780,ath00280,"Valine, leucine and isoleucine degradation",amino acids
+AT5G65800,ath00270,Cysteine and methionine metabolism,amino acids
+AT5G65940,ath00640; ath00280; ath00410,"Propanoate metabolism; Valine, leucine and isoleucine degradation; beta-Alanine metabolism",amino acids
+AT5G66005,ath00230; ath00730,Purine metabolism; Thiamine metabolism,other
+AT5G66060,ath00330,Arginine and proline metabolism,amino acids
+AT5G66150,ath00511,Other glycan degradation,other
+AT5G66190,ath00195,Photosynthesis,other
+AT5G66280,ath00051; ath00520,Fructose and mannose metabolism; Amino sugar and nucleotide sugar metabolism,sugar
+AT5G66390,ath00360,Phenylalanine metabolism,amino acids
+AT5G66570,ath00195,Photosynthesis,other
+AT5G66680,ath00510,N-Glycan biosynthesis,other
+AT5G66760,ath00190,Oxidative phosphorylation,other
+AT5G67100,ath00230; ath00240,Purine metabolism; Pyrimidine metabolism,other
+AT5G67400,ath00360,Phenylalanine metabolism,amino acids
+AT5G67520,ath00920; ath00230,Sulfur metabolism; Purine metabolism,other
+AT5G67590,ath00190,Oxidative phosphorylation,other

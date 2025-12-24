@@ -1,0 +1,363 @@
+gene_id,kegg_pathways,pathway_names,metabolite_group
+AT1G01190,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT1G01600,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT1G02640,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT1G05160,ath00904,Diterpenoid biosynthesis,terpenoids & carotenoids
+AT1G05260,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT1G06820,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT1G07450,ath00960,"Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT1G08550,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT1G10060,ath00966,Glucosinolate biosynthesis,glucosinolates
+AT1G10070,ath00966,Glucosinolate biosynthesis,glucosinolates
+AT1G11600,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT1G11610,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT1G11755,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT1G13090,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT1G13100,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT1G13710,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT1G14540,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT1G14550,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT1G15550,ath00904,Diterpenoid biosynthesis,terpenoids & carotenoids
+AT1G15950,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT1G16400,ath00966,Glucosinolate biosynthesis,glucosinolates
+AT1G16410,ath00966,Glucosinolate biosynthesis,glucosinolates
+AT1G17050,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT1G18270,ath00903,Limonene and pinene degradation,terpenoids & carotenoids
+AT1G18590,ath00966,Glucosinolate biosynthesis,glucosinolates
+AT1G22400,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT1G23800,ath00903,Limonene and pinene degradation,terpenoids & carotenoids
+AT1G24100,ath00966,Glucosinolate biosynthesis,glucosinolates
+AT1G24110,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT1G24735,ath00940; ath00941; ath00945,"Phenylpropanoid biosynthesis; Flavonoid biosynthesis; Stilbenoid, diarylheptanoid and gingerol biosynthesis",phenylpropanoids & polyphenols
+AT1G25410,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT1G26560,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT1G30100,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT1G30870,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT1G31910,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT1G34510,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT1G44170,ath00903,Limonene and pinene degradation,terpenoids & carotenoids
+AT1G44970,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT1G48130,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT1G49530,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT1G49570,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT1G51680,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT1G52340,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT1G61720,ath00941,Flavonoid biosynthesis,phenylpropanoids & polyphenols
+AT1G61820,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT1G62800,ath00950; ath00960,"Isoquinoline alkaloid biosynthesis; Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT1G62940,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT1G63970,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT1G65060,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT1G67110,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT1G67990,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT1G68460,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT1G68850,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT1G71695,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT1G71920,ath00960,"Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT1G74000,ath00901,Indole alkaloid biosynthesis,alkaloids
+AT1G74010,ath00901,Indole alkaloid biosynthesis,alkaloids
+AT1G74020,ath00901,Indole alkaloid biosynthesis,alkaloids
+AT1G74090,ath00966,Glucosinolate biosynthesis,glucosinolates
+AT1G74100,ath00966,Glucosinolate biosynthesis,glucosinolates
+AT1G74470,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT1G74540,ath00940; ath00941; ath00945,"Phenylpropanoid biosynthesis; Flavonoid biosynthesis; Stilbenoid, diarylheptanoid and gingerol biosynthesis",phenylpropanoids & polyphenols
+AT1G74550,ath00940; ath00941; ath00945,"Phenylpropanoid biosynthesis; Flavonoid biosynthesis; Stilbenoid, diarylheptanoid and gingerol biosynthesis",phenylpropanoids & polyphenols
+AT1G75450,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT1G76490,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT1G78390,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT1G78440,ath00904,Diterpenoid biosynthesis,terpenoids & carotenoids
+AT1G78510,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT1G79460,ath00904,Diterpenoid biosynthesis,terpenoids & carotenoids
+AT1G80340,ath00904,Diterpenoid biosynthesis,terpenoids & carotenoids
+AT1G80820,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT2G02500,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT2G17370,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT2G17570,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT2G18140,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT2G18150,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT2G18620,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT2G18640,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT2G18980,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT2G19500,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT2G20340,ath00950,Isoquinoline alkaloid biosynthesis,alkaloids
+AT2G20610,ath00966,Glucosinolate biosynthesis,glucosinolates
+AT2G21730,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT2G21890,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT2G22330,ath00966,Glucosinolate biosynthesis,glucosinolates
+AT2G22420,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT2G22990,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT2G23400,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT2G23410,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT2G23600,ath00901,Indole alkaloid biosynthesis,alkaloids
+AT2G23610,ath00901,Indole alkaloid biosynthesis,alkaloids
+AT2G23800,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT2G24210,ath00902,Monoterpenoid biosynthesis,terpenoids & carotenoids
+AT2G24800,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT2G26230,ath00232,Caffeine metabolism,other
+AT2G26930,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT2G27150,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT2G27760,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT2G29090,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT2G29150,ath00960,"Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT2G29260,ath00960,"Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT2G29290,ath00960,"Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT2G29300,ath00960,"Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT2G29310,ath00960,"Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT2G29320,ath00960,"Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT2G29330,ath00960,"Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT2G29340,ath00960,"Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT2G29360,ath00960,"Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT2G29370,ath00960,"Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT2G30490,ath00940; ath00941; ath00945,"Phenylpropanoid biosynthesis; Flavonoid biosynthesis; Stilbenoid, diarylheptanoid and gingerol biosynthesis",phenylpropanoids & polyphenols
+AT2G30670,ath00960,"Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT2G30750,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT2G32440,ath00904,Diterpenoid biosynthesis,terpenoids & carotenoids
+AT2G32640,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT2G34060,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT2G34555,ath00904,Diterpenoid biosynthesis,terpenoids & carotenoids
+AT2G34630,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT2G36750,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT2G36800,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT2G37040,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT2G37130,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT2G38050,ath00905,Brassinosteroid biosynthesis,terpenoids & carotenoids
+AT2G38380,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT2G38390,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT2G38700,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT2G39040,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT2G40890,ath00940; ath00941; ath00945,"Phenylpropanoid biosynthesis; Flavonoid biosynthesis; Stilbenoid, diarylheptanoid and gingerol biosynthesis",phenylpropanoids & polyphenols
+AT2G41480,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT2G41510,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT2G42490,ath00950; ath00960,"Isoquinoline alkaloid biosynthesis; Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT2G43480,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT2G44450,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT2G44480,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G01190,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G02780,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT3G03670,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G04870,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT3G10230,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT3G10340,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G13730,ath00905,Brassinosteroid biosynthesis,terpenoids & carotenoids
+AT3G14440,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT3G14510,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT3G14530,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT3G14550,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT3G17070,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G18080,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G19160,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT3G19270,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT3G19450,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G19710,ath00966,Glucosinolate biosynthesis,glucosinolates
+AT3G20160,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT3G21230,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G21240,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G21500,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT3G21560,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G21770,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G23630,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT3G24220,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT3G24360,ath00903,Limonene and pinene degradation,terpenoids & carotenoids
+AT3G24503,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G25810,ath00902,Monoterpenoid biosynthesis,terpenoids & carotenoids
+AT3G25820,ath00902,Monoterpenoid biosynthesis,terpenoids & carotenoids
+AT3G25830,ath00902,Monoterpenoid biosynthesis,terpenoids & carotenoids
+AT3G26150,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G26160,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G26170,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G26190,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G26200,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G26210,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G26220,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G26230,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G26270,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G26280,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G26290,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G26300,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G26310,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G26320,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G26830,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G28200,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G29430,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT3G30180,ath00905,Brassinosteroid biosynthesis,terpenoids & carotenoids
+AT3G32040,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT3G44250,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G47000,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G47050,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G48000,ath00903,Limonene and pinene degradation,terpenoids & carotenoids
+AT3G48360,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G49110,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G49120,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G49680,ath00966,Glucosinolate biosynthesis,glucosinolates
+AT3G49960,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G50660,ath00905,Brassinosteroid biosynthesis,terpenoids & carotenoids
+AT3G50740,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G51240,ath00941,Flavonoid biosynthesis,phenylpropanoids & polyphenols
+AT3G52970,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G53130,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT3G53260,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT3G53280,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G53290,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G53300,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G54250,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT3G55120,ath00941,Flavonoid biosynthesis,phenylpropanoids & polyphenols
+AT3G56630,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT3G63110,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT4G00520,ath00903,Limonene and pinene degradation,terpenoids & carotenoids
+AT4G02780,ath00904,Diterpenoid biosynthesis,terpenoids & carotenoids
+AT4G05160,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT4G08770,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT4G08780,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT4G11290,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT4G11820,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT4G13290,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT4G13310,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT4G13360,ath00903,Limonene and pinene degradation,terpenoids & carotenoids
+AT4G13770,ath00966,Glucosinolate biosynthesis,glucosinolates
+AT4G14090,ath00942,Anthocyanin biosynthesis,phenylpropanoids & polyphenols
+AT4G14210,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT4G15350,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT4G15360,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT4G15560,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT4G16210,ath00903,Limonene and pinene degradation,terpenoids & carotenoids
+AT4G16270,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT4G17190,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT4G17690,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT4G18350,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT4G19170,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT4G19230,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT4G21960,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT4G22870,ath00941,Flavonoid biosynthesis,phenylpropanoids & polyphenols
+AT4G22880,ath00941,Flavonoid biosynthesis,phenylpropanoids & polyphenols
+AT4G24650,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT4G25420,ath00904,Diterpenoid biosynthesis,terpenoids & carotenoids
+AT4G25700,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT4G26010,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT4G28680,ath00950,Isoquinoline alkaloid biosynthesis,alkaloids
+AT4G29740,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT4G30170,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT4G31500,ath00966,Glucosinolate biosynthesis,glucosinolates
+AT4G31760,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT4G31940,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT4G31990,ath00950; ath00960,"Isoquinoline alkaloid biosynthesis; Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT4G33360,ath00941,Flavonoid biosynthesis,phenylpropanoids & polyphenols
+AT4G33420,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT4G34050,ath00940; ath00941; ath00945,"Phenylpropanoid biosynthesis; Flavonoid biosynthesis; Stilbenoid, diarylheptanoid and gingerol biosynthesis",phenylpropanoids & polyphenols
+AT4G34230,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT4G34240,ath00903,Limonene and pinene degradation,terpenoids & carotenoids
+AT4G34350,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT4G34890,ath00232,Caffeine metabolism,other
+AT4G34900,ath00232,Caffeine metabolism,other
+AT4G36220,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT4G36250,ath00903,Limonene and pinene degradation,terpenoids & carotenoids
+AT4G36380,ath00905,Brassinosteroid biosynthesis,terpenoids & carotenoids
+AT4G36430,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT4G36810,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT4G37150,ath00901,Indole alkaloid biosynthesis,alkaloids
+AT4G37310,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT4G37320,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT4G37330,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT4G37340,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT4G37360,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT4G37370,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT4G37400,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT4G37410,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT4G37430,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT4G37520,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT4G37530,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT4G37970,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT4G38460,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT4G39950,ath00966,Glucosinolate biosynthesis,glucosinolates
+AT5G04230,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G04330,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G04630,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT5G04660,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT5G05260,ath00966,Glucosinolate biosynthesis,glucosinolates
+AT5G05340,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G05690,ath00905,Brassinosteroid biosynthesis,terpenoids & carotenoids
+AT5G05860,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT5G05870,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT5G06060,ath00960,"Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT5G06720,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G06730,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G07200,ath00904,Diterpenoid biosynthesis,terpenoids & carotenoids
+AT5G07990,ath00941,Flavonoid biosynthesis,phenylpropanoids & polyphenols
+AT5G08640,ath00941,Flavonoid biosynthesis,phenylpropanoids & polyphenols
+AT5G09640,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G09970,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT5G10300,ath00901,Indole alkaloid biosynthesis,alkaloids
+AT5G10330,ath00960,"Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT5G11380,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT5G11520,ath00950; ath00960,"Isoquinoline alkaloid biosynthesis; Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT5G13930,ath00941,Flavonoid biosynthesis,phenylpropanoids & polyphenols
+AT5G14130,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G15180,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G16440,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT5G17230,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT5G17820,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G19040,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT5G19550,ath00950; ath00960,"Isoquinoline alkaloid biosynthesis; Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT5G19880,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G19890,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G20040,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT5G21482,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT5G22410,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G23020,ath00966,Glucosinolate biosynthesis,glucosinolates
+AT5G23190,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT5G23960,ath00909,Sesquiterpenoid and triterpenoid biosynthesis,terpenoids & carotenoids
+AT5G24070,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G24950,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT5G24960,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT5G25120,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT5G25130,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT5G25140,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT5G25180,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT5G25900,ath00904,Diterpenoid biosynthesis,terpenoids & carotenoids
+AT5G26310,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G27450,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT5G36160,ath00950; ath00960,"Isoquinoline alkaloid biosynthesis; Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT5G36220,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT5G38450,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT5G38970,ath00905,Brassinosteroid biosynthesis,terpenoids & carotenoids
+AT5G40150,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G42180,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G42260,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G42590,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT5G42800,ath00941,Flavonoid biosynthesis,phenylpropanoids & polyphenols
+AT5G44640,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G45340,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT5G47000,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G47720,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT5G47770,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT5G48230,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT5G48930,ath00940; ath00941; ath00945,"Phenylpropanoid biosynthesis; Flavonoid biosynthesis; Stilbenoid, diarylheptanoid and gingerol biosynthesis",phenylpropanoids & polyphenols
+AT5G51810,ath00904,Diterpenoid biosynthesis,terpenoids & carotenoids
+AT5G51890,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G52320,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT5G52570,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT5G53970,ath00950; ath00960,"Isoquinoline alkaloid biosynthesis; Tropane, piperidine and pyridine alkaloid biosynthesis",alkaloids
+AT5G56970,ath00908,Zeatin biosynthesis,terpenoids & carotenoids
+AT5G57030,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT5G57220,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT5G57260,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT5G58390,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G58400,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G58770,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT5G58780,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT5G58782,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT5G58784,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT5G58860,ath00903; ath00945,"Limonene and pinene degradation; Stilbenoid, diarylheptanoid and gingerol biosynthesis",terpenoids & carotenoids
+AT5G60500,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT5G60510,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT5G60600,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT5G62790,ath00900,Terpenoid backbone biosynthesis,terpenoids & carotenoids
+AT5G63590,ath00941,Flavonoid biosynthesis,phenylpropanoids & polyphenols
+AT5G64100,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G64110,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G64120,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G65780,ath00966,Glucosinolate biosynthesis,glucosinolates
+AT5G66220,ath00941,Flavonoid biosynthesis,phenylpropanoids & polyphenols
+AT5G66390,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G66690,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols
+AT5G67030,ath00906,Carotenoid biosynthesis,terpenoids & carotenoids
+AT5G67400,ath00940,Phenylpropanoid biosynthesis,phenylpropanoids & polyphenols

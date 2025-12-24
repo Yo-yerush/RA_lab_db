@@ -1,0 +1,31 @@
+Locus	Agenet/Tudor Domain	Other Domain
+AT5G42670	Nterm	No
+AT5G52070	Nterm	No
+AT4G32440	Nterm	No
+AT1G06340	Nterm	No
+AT1G09320	Nterm, Cterm	No
+AT3G06520	Nterm 2x, Cterm 2x	No
+AT5G20030	Nterm	ENT Cterm
+AT5G58610	Nterm	PHDCterm
+AT5G23770DUF8	Nterm	DUF724 Cterm
+AT5G23780DUF9	Nterm	DUF724 Cterm
+AT1G03300DUF1	Nterm 2x	DUF724 Cterm
+AT1G26540DUF3	Nterm 2x	DUF724 Cterm
+AT1G11420DUF2	Nterm 2x	DUF724 Cterm
+AT2G47230DUF6	Nterm 2x	DUF724 Cterm
+AT3G62300DUF7	Nterm 2x	DUF724 Cterm
+AT5G23800DUF10	Nterm 2x	DUF724 Cterm
+AT3G12140	Cterm	ENT Nterm
+AT3G57970	Cterm	ENT Nterm
+AT5G06780	Cterm	ENT Nterm
+AT2G25590	Cterm	BAH Nterm
+AT5G55600	Cterm	BAH Nterm
+AT1G68580	Cterm	BAH Nterm
+AT4G17330	Cterm	No
+AT5G40550	Tudor Cterm	No
+AT3G27460	Tudor Cterm	No
+AT2G02570	Tudor Central	No
+AT4G32620	Tudor Nterm	No
+AT1G02740	Tudor Nterm	MRG Cterm
+AT5G61780	Tudor Cterm	Snase 5x N and Cterm
+AT5G07350	Tudor Cterm	Snase 4x N and Cterm
